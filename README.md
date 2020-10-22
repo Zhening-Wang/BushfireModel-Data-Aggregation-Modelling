@@ -14,7 +14,9 @@ This repository contains three folders:
     In addition to the csv files, several R files are also included. 
     
     The 'Fetch Long Lat.R' file fetches the longitude and latitude of all bushfire locations and writes the generated result to an CSV file.
-    The 'Bushfire Project Data Aggregation.R' file and the 'Bushfire Project Data Aggregation V1.1.R' file are two R files that aggregate the preliminary 'max           temperature' and 'rainfall' data provided by the teaching team. However, as the number of collected datasets increases, the automated aggeregation process           becomes impossible to accomplish as these datasets come from multiple sources and the name for each dataset varies hugely. Hence, we had to compromise and           implement some manual aggregations using Excel.
+    The 'Bushfire Project Data Aggregation.R' file and the 'Bushfire Project Data Aggregation V1.1.R' file are two R files that aggregate the preliminary 'max           temperature' and 'rainfall' data provided by the teaching team. 
+
+    However, as the number of collected datasets increases, the automated aggeregation process becomes impossible to accomplish as these datasets come from multiple     sources and the name for each dataset varies hugely. Hence, we had to compromise and implement some manual aggregations using Excel.
     
 3. Modelling
   
