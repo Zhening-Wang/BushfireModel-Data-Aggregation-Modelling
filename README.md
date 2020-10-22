@@ -28,4 +28,4 @@ This repository contains three folders:
     
     Final Random Forest Model.R: This R file consists of the tuned random forest model that we will be using as our final predictive model.
     
-If you came across any issues while working through this repository, please contact me at zwan0040@student.monash.edu
+If you come across any issues while working through this repository, please contact me at zwan0040@student.monash.edu
