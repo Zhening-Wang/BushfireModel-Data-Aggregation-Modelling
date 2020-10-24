@@ -1,0 +1,2241 @@
+﻿Date,Nickname,State,Location,Max.Temperature (C),isFire
+8/1/44,1944 Victorian bushfires,Victoria,Beaumaris,39.2,F
+9/1/44,1944 Victorian bushfires,Victoria,Beaumaris,23.5,F
+10/1/44,1944 Victorian bushfires,Victoria,Beaumaris,26.9,F
+11/1/44,1944 Victorian bushfires,Victoria,Beaumaris,20.5,F
+12/1/44,1944 Victorian bushfires,Victoria,Beaumaris,21,F
+13/1/44,1944 Victorian bushfires,Victoria,Beaumaris,33.1,F
+14/1/44,1944 Victorian bushfires,Victoria,Beaumaris,39.5,T
+15/1/44,1944 Victorian bushfires,Victoria,Beaumaris,24.3,F
+16/1/44,1944 Victorian bushfires,Victoria,Beaumaris,21.4,F
+17/1/44,1944 Victorian bushfires,Victoria,Beaumaris,23.9,F
+18/1/44,1944 Victorian bushfires,Victoria,Beaumaris,19.5,F
+19/1/44,1944 Victorian bushfires,Victoria,Beaumaris,20.5,F
+20/1/44,1944 Victorian bushfires,Victoria,Beaumaris,33.7,F
+9/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,35.5,F
+10/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,34.4,F
+11/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,35.5,F
+12/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,35.8,F
+13/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,35.8,F
+14/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,37.8,F
+15/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,36.2,T
+16/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,34.2,F
+17/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,35.6,F
+18/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,37.3,F
+19/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,33.9,F
+20/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,29.6,F
+21/2/51,"1951 Charleville Region, Qld: Bushfires",Queensland,Charleville Region,30.5,F
+25/11/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,24.8,F
+26/11/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,21.3,F
+27/11/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,15.3,F
+28/11/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,17.1,F
+29/11/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,20.1,F
+30/11/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,19.4,F
+1/12/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,23.4,T
+2/12/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,28.3,F
+3/12/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,29.4,F
+4/12/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,30.9,F
+5/12/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,32.9,F
+6/12/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,37.2,F
+7/12/51,"1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire",Australian Capital Territory,Canberra,22.7,F
+27/12/54,1955 Black Sunday bushfires,South Australia,Adelaide Hills,22.6,F
+28/12/54,1955 Black Sunday bushfires,South Australia,Adelaide Hills,22.7,F
+29/12/54,1955 Black Sunday bushfires,South Australia,Adelaide Hills,25.8,F
+30/12/54,1955 Black Sunday bushfires,South Australia,Adelaide Hills,35.9,F
+31/12/54,1955 Black Sunday bushfires,South Australia,Adelaide Hills,28.9,F
+1/1/55,1955 Black Sunday bushfires,South Australia,Adelaide Hills,34.7,F
+2/1/55,1955 Black Sunday bushfires,South Australia,Adelaide Hills,42.8,T
+3/1/55,1955 Black Sunday bushfires,South Australia,Adelaide Hills,21,F
+4/1/55,1955 Black Sunday bushfires,South Australia,Adelaide Hills,23.9,F
+5/1/55,1955 Black Sunday bushfires,South Australia,Adelaide Hills,24.5,F
+6/1/55,1955 Black Sunday bushfires,South Australia,Adelaide Hills,23.3,F
+7/1/55,1955 Black Sunday bushfires,South Australia,Adelaide Hills,27.7,F
+8/1/55,1955 Black Sunday bushfires,South Australia,Adelaide Hills,22.5,F
+24/11/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,32.8,F
+25/11/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,26.7,F
+26/11/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,18.9,F
+27/11/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,19.4,F
+28/11/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,23.3,F
+29/11/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,30,F
+30/11/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,30.6,T
+1/12/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,26.1,F
+2/12/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,34.4,F
+3/12/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,33.9,F
+4/12/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,26.1,F
+5/12/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,22.8,F
+6/12/57,"1957 Grose Valley bushfire, Blue Mountains",New South Wales,Blue Mountains,30,F
+26/11/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,18.9,F
+27/11/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,19.4,F
+28/11/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,23.3,F
+29/11/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,30,F
+30/11/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,30.6,F
+1/12/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,26.1,F
+2/12/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,34.4,T
+3/12/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,33.9,F
+4/12/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,26.1,F
+5/12/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,22.8,F
+6/12/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,30,F
+7/12/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,32.2,F
+8/12/57,"1957 Leura bushfire, Blue Mountains",New South Wales,Leura,24.4,F
+9/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,28.9,F
+10/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,33.3,F
+11/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,35.6,F
+12/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,29.4,F
+13/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,36.1,F
+14/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,35.6,F
+15/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,36.1,T
+16/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,25,F
+17/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,25,F
+18/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,21.1,F
+19/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,22.2,F
+20/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,20.6,F
+21/2/61,1961 Western Australian bushfires,Western Australia,Pemberton,18.3,F
+10/1/62,1962 Victorian bushfires,Victoria,The Basin,25.4,F
+11/1/62,1962 Victorian bushfires,Victoria,The Basin,22.1,F
+12/1/62,1962 Victorian bushfires,Victoria,The Basin,22.1,F
+13/1/62,1962 Victorian bushfires,Victoria,The Basin,26.7,F
+14/1/62,1962 Victorian bushfires,Victoria,The Basin,37.8,F
+15/1/62,1962 Victorian bushfires,Victoria,The Basin,35.7,F
+16/1/62,1962 Victorian bushfires,Victoria,The Basin,40,T
+17/1/62,1962 Victorian bushfires,Victoria,The Basin,31.6,F
+18/1/62,1962 Victorian bushfires,Victoria,The Basin,26.2,F
+19/1/62,1962 Victorian bushfires,Victoria,The Basin,24.7,F
+20/1/62,1962 Victorian bushfires,Victoria,The Basin,18.5,F
+21/1/62,1962 Victorian bushfires,Victoria,The Basin,20.3,F
+22/1/62,1962 Victorian bushfires,Victoria,The Basin,20.5,F
+10/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,25.4,F
+11/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,22.1,F
+12/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,22.1,F
+13/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,26.7,F
+14/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,37.8,F
+15/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,35.7,F
+16/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,40,T
+17/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,31.6,F
+18/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,26.2,F
+19/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,24.7,F
+20/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,18.5,F
+21/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,20.3,F
+22/1/62,1962 Victorian bushfires,Victoria,Christmas Hills,20.5,F
+10/1/62,1962 Victorian bushfires,Victoria,Kinglake,25.4,F
+11/1/62,1962 Victorian bushfires,Victoria,Kinglake,22.1,F
+12/1/62,1962 Victorian bushfires,Victoria,Kinglake,22.1,F
+13/1/62,1962 Victorian bushfires,Victoria,Kinglake,26.7,F
+14/1/62,1962 Victorian bushfires,Victoria,Kinglake,37.8,F
+15/1/62,1962 Victorian bushfires,Victoria,Kinglake,35.7,F
+16/1/62,1962 Victorian bushfires,Victoria,Kinglake,40,T
+17/1/62,1962 Victorian bushfires,Victoria,Kinglake,31.6,F
+18/1/62,1962 Victorian bushfires,Victoria,Kinglake,26.2,F
+19/1/62,1962 Victorian bushfires,Victoria,Kinglake,24.7,F
+20/1/62,1962 Victorian bushfires,Victoria,Kinglake,18.5,F
+21/1/62,1962 Victorian bushfires,Victoria,Kinglake,20.3,F
+22/1/62,1962 Victorian bushfires,Victoria,Kinglake,20.5,F
+10/1/62,1962 Victorian bushfires,Victoria,St Andrews,25.4,F
+11/1/62,1962 Victorian bushfires,Victoria,St Andrews,22.1,F
+12/1/62,1962 Victorian bushfires,Victoria,St Andrews,22.1,F
+13/1/62,1962 Victorian bushfires,Victoria,St Andrews,26.7,F
+14/1/62,1962 Victorian bushfires,Victoria,St Andrews,37.8,F
+15/1/62,1962 Victorian bushfires,Victoria,St Andrews,35.7,F
+16/1/62,1962 Victorian bushfires,Victoria,St Andrews,40,T
+17/1/62,1962 Victorian bushfires,Victoria,St Andrews,31.6,F
+18/1/62,1962 Victorian bushfires,Victoria,St Andrews,26.2,F
+19/1/62,1962 Victorian bushfires,Victoria,St Andrews,24.7,F
+20/1/62,1962 Victorian bushfires,Victoria,St Andrews,18.5,F
+21/1/62,1962 Victorian bushfires,Victoria,St Andrews,20.3,F
+22/1/62,1962 Victorian bushfires,Victoria,St Andrews,20.5,F
+10/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,25.4,F
+11/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,22.1,F
+12/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,22.1,F
+13/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,26.7,F
+14/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,37.8,F
+15/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,35.7,F
+16/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,40,T
+17/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,31.6,F
+18/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,26.2,F
+19/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,24.7,F
+20/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,18.5,F
+21/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,20.3,F
+22/1/62,1962 Victorian bushfires,Victoria,Hurstbridge,20.5,F
+10/1/62,1962 Victorian bushfires,Victoria,Warrandyte,25.4,F
+11/1/62,1962 Victorian bushfires,Victoria,Warrandyte,22.1,F
+12/1/62,1962 Victorian bushfires,Victoria,Warrandyte,22.1,F
+13/1/62,1962 Victorian bushfires,Victoria,Warrandyte,26.7,F
+14/1/62,1962 Victorian bushfires,Victoria,Warrandyte,37.8,F
+15/1/62,1962 Victorian bushfires,Victoria,Warrandyte,35.7,F
+16/1/62,1962 Victorian bushfires,Victoria,Warrandyte,40,T
+17/1/62,1962 Victorian bushfires,Victoria,Warrandyte,31.6,F
+18/1/62,1962 Victorian bushfires,Victoria,Warrandyte,26.2,F
+19/1/62,1962 Victorian bushfires,Victoria,Warrandyte,24.7,F
+20/1/62,1962 Victorian bushfires,Victoria,Warrandyte,18.5,F
+21/1/62,1962 Victorian bushfires,Victoria,Warrandyte,20.3,F
+22/1/62,1962 Victorian bushfires,Victoria,Warrandyte,20.5,F
+10/1/62,1962 Victorian bushfires,Victoria,Mitcham,25.4,F
+11/1/62,1962 Victorian bushfires,Victoria,Mitcham,22.1,F
+12/1/62,1962 Victorian bushfires,Victoria,Mitcham,22.1,F
+13/1/62,1962 Victorian bushfires,Victoria,Mitcham,26.7,F
+14/1/62,1962 Victorian bushfires,Victoria,Mitcham,37.8,F
+15/1/62,1962 Victorian bushfires,Victoria,Mitcham,35.7,F
+16/1/62,1962 Victorian bushfires,Victoria,Mitcham,40,T
+17/1/62,1962 Victorian bushfires,Victoria,Mitcham,31.6,F
+18/1/62,1962 Victorian bushfires,Victoria,Mitcham,26.2,F
+19/1/62,1962 Victorian bushfires,Victoria,Mitcham,24.7,F
+20/1/62,1962 Victorian bushfires,Victoria,Mitcham,18.5,F
+21/1/62,1962 Victorian bushfires,Victoria,Mitcham,20.3,F
+22/1/62,1962 Victorian bushfires,Victoria,Mitcham,20.5,F
+11/1/65,1965 Longwood bushfire,Victoria,Longwood,20.6,F
+12/1/65,1965 Longwood bushfire,Victoria,Longwood,22.8,F
+13/1/65,1965 Longwood bushfire,Victoria,Longwood,21.1,F
+14/1/65,1965 Longwood bushfire,Victoria,Longwood,28.9,F
+15/1/65,1965 Longwood bushfire,Victoria,Longwood,33.3,F
+16/1/65,1965 Longwood bushfire,Victoria,Longwood,33.3,F
+17/1/65,1965 Longwood bushfire,Victoria,Longwood,40.6,T
+18/1/65,1965 Longwood bushfire,Victoria,Longwood,25,F
+19/1/65,1965 Longwood bushfire,Victoria,Longwood,23,F
+20/1/65,1965 Longwood bushfire,Victoria,Longwood,20,F
+21/1/65,1965 Longwood bushfire,Victoria,Longwood,25.7,F
+22/1/65,1965 Longwood bushfire,Victoria,Longwood,27.7,F
+23/1/65,1965 Longwood bushfire,Victoria,Longwood,27.7,F
+7/3/65,1965 Gippsland bushfires,Victoria,Bruthen,22.2,F
+8/3/65,1965 Gippsland bushfires,Victoria,Bruthen,31.1,F
+9/3/65,1965 Gippsland bushfires,Victoria,Bruthen,21.7,F
+10/3/65,1965 Gippsland bushfires,Victoria,Bruthen,25.6,F
+11/3/65,1965 Gippsland bushfires,Victoria,Bruthen,35.6,F
+12/3/65,1965 Gippsland bushfires,Victoria,Bruthen,35.6,F
+13/3/65,1965 Gippsland bushfires,Victoria,Bruthen,35.6,T
+14/3/65,1965 Gippsland bushfires,Victoria,Bruthen,21.7,F
+15/3/65,1965 Gippsland bushfires,Victoria,Bruthen,22.8,F
+16/3/65,1965 Gippsland bushfires,Victoria,Bruthen,25,F
+17/3/65,1965 Gippsland bushfires,Victoria,Bruthen,35,F
+18/3/65,1965 Gippsland bushfires,Victoria,Bruthen,34.4,F
+19/3/65,1965 Gippsland bushfires,Victoria,Bruthen,34.4,F
+7/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,22.2,F
+8/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,31.1,F
+9/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,21.7,F
+10/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,25.6,F
+11/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,35.6,F
+12/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,35.6,F
+13/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,35.6,T
+14/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,21.7,F
+15/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,22.8,F
+16/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,25,F
+17/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,35,F
+18/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,34.4,F
+19/3/65,1965 Gippsland bushfires,Victoria,Tambo Crossing,34.4,F
+8/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,29.4,F
+9/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,25,F
+10/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,22.2,F
+11/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,30,F
+12/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,30.6,F
+13/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,20,F
+14/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,17.2,T
+15/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,26.1,F
+16/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,22.8,F
+17/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,26.7,F
+18/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,28.9,F
+19/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,28.9,F
+20/3/65,1965 Southern Highlands bushfires,New South Wales,Chatsbury,28.3,F
+8/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,31.1,F
+9/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,25.6,F
+10/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,25.6,F
+11/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,31.7,F
+12/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,31.1,F
+13/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,21.1,F
+14/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,19.4,T
+15/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,28.3,F
+16/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,25,F
+17/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,30,F
+18/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,31.1,F
+19/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,31.7,F
+20/3/65,1965 Southern Highlands bushfires,New South Wales,Bungonia,30.6,F
+1/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,19.9,F
+2/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,19.3,F
+3/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,23,F
+4/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,26.7,F
+5/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,23.1,F
+6/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,28.9,F
+7/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,39.3,T
+8/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,15.5,F
+9/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,20.7,F
+10/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,20.6,F
+11/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,23.7,F
+12/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,19.3,F
+13/2/67,1967 Black Tuesday bushfires,Tasmania,Hobart,20.4,F
+13/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,29.6,F
+14/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,25.6,F
+15/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,31.7,F
+16/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,33.2,F
+17/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,35,F
+18/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,34,F
+19/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,32.4,T
+20/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,26.8,F
+21/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,25.4,F
+22/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,25.9,F
+23/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,32.4,F
+24/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,39.3,F
+25/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,The Basin,38.2,F
+13/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,32.2,F
+14/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,29.4,F
+15/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,35.8,F
+16/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,36.6,F
+17/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,37.8,F
+18/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,36.7,F
+19/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,35.4,T
+20/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,31.8,F
+21/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,29.4,F
+22/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,29.3,F
+23/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,36.7,F
+24/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,41.8,F
+25/2/68,"1968 Dandenong Ranges, The Basin, Upwey bushfire",Victoria,Upwey,41.6,F
+23/11/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,18.3,F
+24/11/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,20.6,F
+25/11/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,16.1,F
+26/11/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,20.1,F
+27/11/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,25.6,F
+28/11/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,29.6,F
+29/11/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,29.6,T
+30/11/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,22.3,F
+1/12/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,25,F
+2/12/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,26.1,F
+3/12/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,21.8,F
+4/12/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,11.7,F
+5/12/68,1968 Blue Mountains Bushfire,New South Wales,Blue Mountains,11.7,F
+2/1/69,1969 bushfires,Victoria,Lara,23.3,F
+3/1/69,1969 bushfires,Victoria,Lara,22.3,F
+4/1/69,1969 bushfires,Victoria,Lara,24.6,F
+5/1/69,1969 bushfires,Victoria,Lara,21.4,F
+6/1/69,1969 bushfires,Victoria,Lara,27.2,F
+7/1/69,1969 bushfires,Victoria,Lara,36.1,F
+8/1/69,1969 bushfires,Victoria,Lara,38.9,T
+9/1/69,1969 bushfires,Victoria,Lara,18.5,F
+10/1/69,1969 bushfires,Victoria,Lara,19.6,F
+11/1/69,1969 bushfires,Victoria,Lara,25.7,F
+12/1/69,1969 bushfires,Victoria,Lara,20.7,F
+13/1/69,1969 bushfires,Victoria,Lara,26.7,F
+14/1/69,1969 bushfires,Victoria,Lara,24.9,F
+2/1/69,1969 bushfires,Victoria,Daylesford,31.7,F
+3/1/69,1969 bushfires,Victoria,Daylesford,20.6,F
+4/1/69,1969 bushfires,Victoria,Daylesford,23.9,F
+5/1/69,1969 bushfires,Victoria,Daylesford,20.6,F
+6/1/69,1969 bushfires,Victoria,Daylesford,24.4,F
+7/1/69,1969 bushfires,Victoria,Daylesford,35.3,F
+8/1/69,1969 bushfires,Victoria,Daylesford,35.6,T
+9/1/69,1969 bushfires,Victoria,Daylesford,21.1,F
+10/1/69,1969 bushfires,Victoria,Daylesford,29.2,F
+11/1/69,1969 bushfires,Victoria,Daylesford,33.3,F
+12/1/69,1969 bushfires,Victoria,Daylesford,28.9,F
+13/1/69,1969 bushfires,Victoria,Daylesford,34.4,F
+14/1/69,1969 bushfires,Victoria,Daylesford,32.5,F
+2/1/69,1969 bushfires,Victoria,Yea,31.6,F
+3/1/69,1969 bushfires,Victoria,Yea,21.6,F
+4/1/69,1969 bushfires,Victoria,Yea,21.6,F
+5/1/69,1969 bushfires,Victoria,Yea,24.4,F
+6/1/69,1969 bushfires,Victoria,Yea,22.3,F
+7/1/69,1969 bushfires,Victoria,Yea,35.4,F
+8/1/69,1969 bushfires,Victoria,Yea,37.1,T
+9/1/69,1969 bushfires,Victoria,Yea,23.4,F
+10/1/69,1969 bushfires,Victoria,Yea,29.7,F
+11/1/69,1969 bushfires,Victoria,Yea,29.7,F
+12/1/69,1969 bushfires,Victoria,Yea,34.9,F
+13/1/69,1969 bushfires,Victoria,Yea,36.7,F
+14/1/69,1969 bushfires,Victoria,Yea,33.9,F
+2/1/69,1969 bushfires,Victoria,Kangaroo Flat,31.2,F
+3/1/69,1969 bushfires,Victoria,Kangaroo Flat,23.1,F
+4/1/69,1969 bushfires,Victoria,Kangaroo Flat,26,F
+5/1/69,1969 bushfires,Victoria,Kangaroo Flat,23.9,F
+6/1/69,1969 bushfires,Victoria,Kangaroo Flat,26,F
+7/1/69,1969 bushfires,Victoria,Kangaroo Flat,36.6,F
+8/1/69,1969 bushfires,Victoria,Kangaroo Flat,37.8,T
+9/1/69,1969 bushfires,Victoria,Kangaroo Flat,22.8,F
+10/1/69,1969 bushfires,Victoria,Kangaroo Flat,30.2,F
+11/1/69,1969 bushfires,Victoria,Kangaroo Flat,33.8,F
+12/1/69,1969 bushfires,Victoria,Kangaroo Flat,34.9,F
+13/1/69,1969 bushfires,Victoria,Kangaroo Flat,36.2,F
+14/1/69,1969 bushfires,Victoria,Kangaroo Flat,33.8,F
+2/1/69,1969 bushfires,Victoria,Korong Vale,33.9,F
+3/1/69,1969 bushfires,Victoria,Korong Vale,25,F
+4/1/69,1969 bushfires,Victoria,Korong Vale,27.8,F
+5/1/69,1969 bushfires,Victoria,Korong Vale,26.1,F
+6/1/69,1969 bushfires,Victoria,Korong Vale,28.9,F
+7/1/69,1969 bushfires,Victoria,Korong Vale,38.9,F
+8/1/69,1969 bushfires,Victoria,Korong Vale,39.2,T
+9/1/69,1969 bushfires,Victoria,Korong Vale,26.7,F
+10/1/69,1969 bushfires,Victoria,Korong Vale,31.7,F
+11/1/69,1969 bushfires,Victoria,Korong Vale,36.6,F
+12/1/69,1969 bushfires,Victoria,Korong Vale,37.8,F
+13/1/69,1969 bushfires,Victoria,Korong Vale,38.1,F
+14/1/69,1969 bushfires,Victoria,Korong Vale,35.6,F
+8/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,17,F
+9/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,19,F
+10/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,21.5,F
+11/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,20.5,F
+12/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,19,F
+13/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,25,F
+14/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,27.6,T
+15/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,27.8,F
+16/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,21,F
+17/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,15.5,F
+18/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,21.5,F
+19/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,23,F
+20/12/72,1972 VIC bushfire,Victoria,Mount Buffalo,28,F
+26/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,29.5,F
+27/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,32.3,F
+28/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,34.2,F
+29/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,34.5,F
+30/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,36,F
+31/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,38,F
+1/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,26.2,T
+2/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,24.5,F
+3/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,27.5,F
+4/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,32.3,F
+5/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,34.4,F
+6/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,30.7,F
+7/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Thargomindah,29.8,F
+26/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,35.2,F
+27/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,35,F
+28/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,36.3,F
+29/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,37,F
+30/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,38.9,F
+31/10/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,38,F
+1/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,29,T
+2/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,28,F
+3/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,30.6,F
+4/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,35.5,F
+5/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,38,F
+6/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,38.5,F
+7/11/74,"1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire",Queensland,Boulia Urandangie,36,F
+19/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,27.5,F
+20/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,27.5,F
+21/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,28.5,F
+22/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,28.5,F
+23/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,30,F
+24/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,28.5,F
+25/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,28.5,T
+26/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,28,F
+27/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,30,F
+28/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,28.5,F
+29/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,28.5,F
+30/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,29,F
+31/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Julia Creek,30.5,F
+19/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,27.9,F
+20/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,26.4,F
+21/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,26.4,F
+22/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,27.4,F
+23/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,28.8,F
+24/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,28.4,F
+25/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,28.3,T
+26/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,27.7,F
+27/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,27.2,F
+28/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,25.2,F
+29/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,25.3,F
+30/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,26.2,F
+31/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Hughenden,27.2,F
+19/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,21.3,F
+20/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,21.1,F
+21/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,19.6,F
+22/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,20.1,F
+23/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,22.7,F
+24/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,20.4,F
+25/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,19.8,T
+26/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,21.2,F
+27/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,20.8,F
+28/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,20.2,F
+29/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,20.6,F
+30/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,20.9,F
+31/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,South Burnett,20.9,F
+19/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21.1,F
+20/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21,F
+21/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21,F
+22/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21,F
+23/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,22,F
+24/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21,F
+25/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21,T
+26/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,20.7,F
+27/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21,F
+28/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21,F
+29/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21,F
+30/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21.7,F
+31/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Nanango,21.7,F
+19/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,23.4,F
+20/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,23,F
+21/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,23.5,F
+22/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,23.5,F
+23/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,18.3,F
+24/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,21.2,F
+25/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,18,T
+26/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,21,F
+27/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,21.7,F
+28/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,22,F
+29/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,23,F
+30/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,23,F
+31/5/76,"1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood",Queensland,Inglewood,23,F
+6/2/77,1977 Western Districts bushfires,Victoria,Streatham,23.6,F
+7/2/77,1977 Western Districts bushfires,Victoria,Streatham,28,F
+8/2/77,1977 Western Districts bushfires,Victoria,Streatham,33.4,F
+9/2/77,1977 Western Districts bushfires,Victoria,Streatham,29,F
+10/2/77,1977 Western Districts bushfires,Victoria,Streatham,30,F
+11/2/77,1977 Western Districts bushfires,Victoria,Streatham,39.2,F
+12/2/77,1977 Western Districts bushfires,Victoria,Streatham,37,T
+13/2/77,1977 Western Districts bushfires,Victoria,Streatham,25.2,F
+14/2/77,1977 Western Districts bushfires,Victoria,Streatham,30,F
+15/2/77,1977 Western Districts bushfires,Victoria,Streatham,28.4,F
+16/2/77,1977 Western Districts bushfires,Victoria,Streatham,33,F
+17/2/77,1977 Western Districts bushfires,Victoria,Streatham,37.4,F
+18/2/77,1977 Western Districts bushfires,Victoria,Streatham,21,F
+11/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,19.9,F
+12/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,21.1,F
+13/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,26.4,F
+14/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,31.8,F
+15/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,31.9,F
+16/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,26,F
+17/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,28.7,T
+18/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,25,F
+19/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,21.9,F
+20/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,20.1,F
+21/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,24.8,F
+22/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,22.5,F
+23/12/77,1977 Blue Mountains Fires 1977,New South Wales,Blue Mountains,22.6,F
+26/12/77,1978 Western Australia bushfire,Western Australia,Wanneroo,34.4,F
+27/12/77,1978 Western Australia bushfire,Western Australia,Wanneroo,39.8,F
+28/12/77,1978 Western Australia bushfire,Western Australia,Wanneroo,27.1,F
+29/12/77,1978 Western Australia bushfire,Western Australia,Wanneroo,26.6,F
+30/12/77,1978 Western Australia bushfire,Western Australia,Wanneroo,26.8,F
+31/12/77,1978 Western Australia bushfire,Western Australia,Wanneroo,30,F
+1/1/78,1978 Western Australia bushfire,Western Australia,Wanneroo,26.4,T
+2/1/78,1978 Western Australia bushfire,Western Australia,Wanneroo,29,F
+3/1/78,1978 Western Australia bushfire,Western Australia,Wanneroo,36.5,F
+4/1/78,1978 Western Australia bushfire,Western Australia,Wanneroo,34.4,F
+5/1/78,1978 Western Australia bushfire,Western Australia,Wanneroo,34.5,F
+6/1/78,1978 Western Australia bushfire,Western Australia,Wanneroo,36,F
+7/1/78,1978 Western Australia bushfire,Western Australia,Wanneroo,39.4,F
+26/12/77,1978 Western Australia bushfire,Western Australia,Pemberton,26.4,F
+27/12/77,1978 Western Australia bushfire,Western Australia,Pemberton,33.5,F
+28/12/77,1978 Western Australia bushfire,Western Australia,Pemberton,29,F
+29/12/77,1978 Western Australia bushfire,Western Australia,Pemberton,23.2,F
+30/12/77,1978 Western Australia bushfire,Western Australia,Pemberton,24.5,F
+31/12/77,1978 Western Australia bushfire,Western Australia,Pemberton,23.3,F
+1/1/78,1978 Western Australia bushfire,Western Australia,Pemberton,24.5,T
+2/1/78,1978 Western Australia bushfire,Western Australia,Pemberton,25.3,F
+3/1/78,1978 Western Australia bushfire,Western Australia,Pemberton,32.6,F
+4/1/78,1978 Western Australia bushfire,Western Australia,Pemberton,30,F
+5/1/78,1978 Western Australia bushfire,Western Australia,Pemberton,23.4,F
+6/1/78,1978 Western Australia bushfire,Western Australia,Pemberton,29,F
+7/1/78,1978 Western Australia bushfire,Western Australia,Pemberton,33.4,F
+9/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,25.2,F
+10/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,31.9,F
+11/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,22.5,F
+12/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,25,F
+13/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,23.9,F
+14/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,38.2,F
+15/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,41.9,T
+16/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,23.7,F
+17/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,27.3,F
+18/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,23.4,F
+19/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,24.6,F
+20/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,27.4,F
+21/1/78,1978 Bairnsdale bushfire,Victoria,Bairnsdale,30.4,F
+29/3/78,1978 Western Australian bushfires,Western Australia,Manjimup,20.6,F
+30/3/78,1978 Western Australian bushfires,Western Australia,Manjimup,24.2,F
+31/3/78,1978 Western Australian bushfires,Western Australia,Manjimup,29.4,F
+1/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,30,F
+2/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,27.5,F
+3/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,23.8,F
+4/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,30.2,T
+5/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,18.4,F
+6/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,17.9,F
+7/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,21.5,F
+8/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,21.4,F
+9/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,21,F
+10/4/78,1978 Western Australian bushfires,Western Australia,Manjimup,23.3,F
+29/3/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,24.5,F
+30/3/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,26.4,F
+31/3/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,31,F
+1/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,32.8,F
+2/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,32.4,F
+3/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,26.4,F
+4/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,34,T
+5/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,20.6,F
+6/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,20.8,F
+7/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,24.3,F
+8/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,24,F
+9/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,22.7,F
+10/4/78,1978 Western Australian bushfires,Western Australia,Blackwood Valley,25.7,F
+28/10/80,1980 Waterfall bushfire,New South Wales,Waterfall,20.7,F
+29/10/80,1980 Waterfall bushfire,New South Wales,Waterfall,22.2,F
+30/10/80,1980 Waterfall bushfire,New South Wales,Waterfall,24.8,F
+31/10/80,1980 Waterfall bushfire,New South Wales,Waterfall,23.7,F
+1/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,25.3,F
+2/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,25.2,F
+3/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,18.5,T
+4/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,18.6,F
+5/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,33,F
+6/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,26.5,F
+7/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,19,F
+8/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,17,F
+9/11/80,1980 Waterfall bushfire,New South Wales,Waterfall,16.3,F
+22/12/80,1980 Victoria bushfire,Victoria,Sunset Country,41.8,F
+23/12/80,1980 Victoria bushfire,Victoria,Sunset Country,32.1,F
+24/12/80,1980 Victoria bushfire,Victoria,Sunset Country,39,F
+25/12/80,1980 Victoria bushfire,Victoria,Sunset Country,37.5,F
+26/12/80,1980 Victoria bushfire,Victoria,Sunset Country,36.1,F
+27/12/80,1980 Victoria bushfire,Victoria,Sunset Country,41.7,F
+28/12/80,1980 Victoria bushfire,Victoria,Sunset Country,35.9,T
+29/12/80,1980 Victoria bushfire,Victoria,Sunset Country,31.8,T
+30/12/80,1980 Victoria bushfire,Victoria,Sunset Country,35.1,T
+31/12/80,1980 Victoria bushfire,Victoria,Sunset Country,42.9,T
+1/1/81,1980 Victoria bushfire,Victoria,Sunset Country,44.4,T
+2/1/81,1980 Victoria bushfire,Victoria,Sunset Country,42.9,T
+3/1/81,1980 Victoria bushfire,Victoria,Sunset Country,39.4,T
+4/1/81,1980 Victoria bushfire,Victoria,Sunset Country,31.9,T
+5/1/81,1980 Victoria bushfire,Victoria,Sunset Country,36.4,T
+6/1/81,1980 Victoria bushfire,Victoria,Sunset Country,38.1,T
+7/1/81,1980 Victoria bushfire,Victoria,Sunset Country,39.3,F
+8/1/81,1980 Victoria bushfire,Victoria,Sunset Country,39.2,F
+9/1/81,1980 Victoria bushfire,Victoria,Sunset Country,39.2,F
+10/1/81,1980 Victoria bushfire,Victoria,Sunset Country,30.4,F
+11/1/81,1980 Victoria bushfire,Victoria,Sunset Country,33.3,F
+12/1/81,1980 Victoria bushfire,Victoria,Sunset Country,41.3,F
+22/12/80,1980 Victoria bushfire,Victoria,Big Desert,39.7,F
+23/12/80,1980 Victoria bushfire,Victoria,Big Desert,29.3,F
+24/12/80,1980 Victoria bushfire,Victoria,Big Desert,37,F
+25/12/80,1980 Victoria bushfire,Victoria,Big Desert,34.5,F
+26/12/80,1980 Victoria bushfire,Victoria,Big Desert,34,F
+27/12/80,1980 Victoria bushfire,Victoria,Big Desert,40.3,F
+28/12/80,1980 Victoria bushfire,Victoria,Big Desert,31.7,T
+29/12/80,1980 Victoria bushfire,Victoria,Big Desert,30.4,T
+30/12/80,1980 Victoria bushfire,Victoria,Big Desert,34.3,T
+31/12/80,1980 Victoria bushfire,Victoria,Big Desert,40.7,T
+1/1/81,1980 Victoria bushfire,Victoria,Big Desert,41.4,T
+2/1/81,1980 Victoria bushfire,Victoria,Big Desert,40.8,T
+3/1/81,1980 Victoria bushfire,Victoria,Big Desert,33.3,T
+4/1/81,1980 Victoria bushfire,Victoria,Big Desert,30.9,T
+5/1/81,1980 Victoria bushfire,Victoria,Big Desert,35.1,T
+6/1/81,1980 Victoria bushfire,Victoria,Big Desert,35.8,T
+7/1/81,1980 Victoria bushfire,Victoria,Big Desert,38.6,F
+8/1/81,1980 Victoria bushfire,Victoria,Big Desert,37.9,F
+9/1/81,1980 Victoria bushfire,Victoria,Big Desert,37.5,F
+10/1/81,1980 Victoria bushfire,Victoria,Big Desert,28.4,F
+11/1/81,1980 Victoria bushfire,Victoria,Big Desert,30.7,F
+12/1/81,1980 Victoria bushfire,Victoria,Big Desert,38.7,F
+3/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,23,F
+4/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,24.6,F
+5/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,32.9,F
+6/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,24.9,F
+7/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,26.3,F
+8/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,42.2,F
+9/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,41.4,T
+10/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,36.9,F
+11/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,28.4,F
+12/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,22.9,F
+13/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,22.1,F
+14/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,23.3,F
+15/1/83,1983 Grays Point bushfire,New South Wales,Grays Point,25.7,F
+25/1/83,1983 Cann River bushfire,Victoria,Cann River,24.1,F
+26/1/83,1983 Cann River bushfire,Victoria,Cann River,27.8,F
+27/1/83,1983 Cann River bushfire,Victoria,Cann River,19,F
+28/1/83,1983 Cann River bushfire,Victoria,Cann River,21.3,F
+29/1/83,1983 Cann River bushfire,Victoria,Cann River,23.8,F
+30/1/83,1983 Cann River bushfire,Victoria,Cann River,21.7,F
+31/1/83,1983 Cann River bushfire,Victoria,Cann River,32.6,T
+1/2/83,1983 Cann River bushfire,Victoria,Cann River,39.9,F
+2/2/83,1983 Cann River bushfire,Victoria,Cann River,20.1,F
+3/2/83,1983 Cann River bushfire,Victoria,Cann River,20.1,F
+4/2/83,1983 Cann River bushfire,Victoria,Cann River,20.2,F
+5/2/83,1983 Cann River bushfire,Victoria,Cann River,22.4,F
+6/2/83,1983 Cann River bushfire,Victoria,Cann River,28.2,F
+26/1/83,1983 Victoria bushfire,Victoria,Mt Macedon,21.4,F
+27/1/83,1983 Victoria bushfire,Victoria,Mt Macedon,24.3,F
+28/1/83,1983 Victoria bushfire,Victoria,Mt Macedon,26.2,F
+29/1/83,1983 Victoria bushfire,Victoria,Mt Macedon,33.5,F
+30/1/83,1983 Victoria bushfire,Victoria,Mt Macedon,36.4,F
+31/1/83,1983 Victoria bushfire,Victoria,Mt Macedon,37.3,F
+1/2/83,1983 Victoria bushfire,Victoria,Mt Macedon,39,T
+2/2/83,1983 Victoria bushfire,Victoria,Mt Macedon,28.7,F
+3/2/83,1983 Victoria bushfire,Victoria,Mt Macedon,25.7,F
+4/2/83,1983 Victoria bushfire,Victoria,Mt Macedon,26,F
+5/2/83,1983 Victoria bushfire,Victoria,Mt Macedon,32.4,F
+6/2/83,1983 Victoria bushfire,Victoria,Mt Macedon,39,F
+7/2/83,1983 Victoria bushfire,Victoria,Mt Macedon,38.9,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,26.8,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,21.5,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,21.1,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,25,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,32.1,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,31,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,44,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,20.9,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,21.6,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,22.4,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,26.5,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,34.3,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,Branxholme,27.1,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,32,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,24.5,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,25.6,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,30.7,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,32.9,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,35.2,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,36.7,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,26.8,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,23.2,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,25.4,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,27.9,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,27.8,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,East Trentham,27.6,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,32.7,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,24.6,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,25.7,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,29.6,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,33.1,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,35.5,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,39.9,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,27.9,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,23.4,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,25.3,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,28.2,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,28.3,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,Mt Macedon,28,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,20.9,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,18.9,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,18.5,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,19.5,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,26.4,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,29,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,41.5,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,17.7,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,18.8,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,19.3,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,21.6,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,24.9,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,the Otway Ranges,22.9,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,28,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,23.1,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,24.2,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,27.2,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,34.3,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,31.5,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,41.3,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,21,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,22.7,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,25.4,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,27.6,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,33,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,Belgrave Heights,31.5,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,27.3,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,29.6,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,20,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,25.5,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,30.6,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,30.4,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,37,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,18.1,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,20.5,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,21.9,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,24.6,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,29.8,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,Warburton,29,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,28,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,23.1,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,24.2,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,27.2,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,34.3,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,31.5,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,41.3,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,21,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,22.7,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,25.4,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,27.6,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,33,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,Cockatoo,31.5,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,27.9,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,20.9,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,22.6,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,25.2,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,29.2,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,28.8,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,35.6,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,22,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,21.4,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,23,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,26.1,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,28,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,Beaconsfield Upper,27,F
+10/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,25.4,F
+11/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,20.4,F
+12/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,20.4,F
+13/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,24.1,F
+14/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,29.5,F
+15/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,26.9,F
+16/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,41.5,T
+17/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,20.5,F
+18/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,20.9,F
+19/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,21.4,F
+20/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,24.9,F
+21/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,30.8,F
+22/2/83,1983 Ash Wednesday bushfires,Victoria,Framlingham,27,F
+10/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,26.9,F
+11/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,19.7,F
+12/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,22.5,F
+13/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,27.2,F
+14/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,32.9,F
+15/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,38.1,F
+16/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,38.9,T
+17/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,20,F
+18/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,20.4,F
+19/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,21.5,F
+20/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,27.5,F
+21/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,31.3,F
+22/2/83,1983 Ash Wednesday bushfires,South Australia,Adelaide Hills,26.8,F
+10/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,25.2,F
+11/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,20.5,F
+12/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,21.2,F
+13/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,24.4,F
+14/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,34,F
+15/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,32.9,F
+16/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,43.6,T
+17/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,20.5,F
+18/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,21.6,F
+19/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,23.5,F
+20/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,27.2,F
+21/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,34,F
+22/2/83,1983 Ash Wednesday bushfires,South Australia,Mt Gambier,23.3,F
+19/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,33.5,F
+20/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,27.3,F
+21/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,28.4,F
+22/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,33.1,F
+23/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,35.4,F
+24/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,38.7,F
+25/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,40.8,T
+26/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,30,F
+27/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,32.2,F
+28/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,32.9,F
+29/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,29.7,F
+30/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,31.1,F
+31/12/84,1984 Western New South Wales grasslands bushfires,New South Wales,Cobar,31.2,F
+21/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,29.5,F
+22/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,28,F
+23/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,20.5,F
+24/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,22,F
+25/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,27,F
+26/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,26.5,F
+27/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,33.6,T
+28/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,26,T
+29/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,28.2,T
+30/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,33.5,T
+31/12/90,1990 VIC bushfire,Victoria,Strathbogie Ranges,34.5,T
+1/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,35,T
+2/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,35.5,T
+3/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,37,T
+4/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,35,T
+5/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,19.3,T
+6/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,18,T
+7/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,22.5,T
+8/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,27,T
+9/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,29.7,T
+10/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,32.8,T
+11/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,36.8,F
+12/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,29,F
+13/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,31.5,F
+14/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,35,F
+15/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,28.5,F
+16/1/91,1990 VIC bushfire,Victoria,Strathbogie Ranges,26.7,F
+21/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,22.1,F
+22/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,27.8,F
+23/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,24.9,F
+24/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,24,F
+25/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,24.8,F
+26/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,28.5,F
+27/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,23,T
+28/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,25,T
+29/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,24,T
+30/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,22.9,T
+31/12/93,1994 Eastern seaboard fires,New South Wales,Batemans Bay,23.9,T
+1/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,22.3,T
+2/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,36.4,T
+3/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,23,T
+4/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,23.1,T
+5/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,34.2,T
+6/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,31,T
+7/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,32.4,T
+8/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,27.6,T
+9/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,24.5,T
+10/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,23.9,T
+11/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,29.2,T
+12/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,27.3,T
+13/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,32.7,T
+14/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,20.4,T
+15/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,21.3,T
+16/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,28.4,T
+17/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,26.2,F
+18/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,23.9,F
+19/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,23.9,F
+20/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,27,F
+21/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,22.2,F
+22/1/94,1994 Eastern seaboard fires,New South Wales,Batemans Bay,23.1,F
+21/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,16.4,F
+22/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,21.3,F
+23/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,17.7,F
+24/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,22.7,F
+25/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,24,F
+26/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,24.4,F
+27/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,10.7,T
+28/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,14.2,T
+29/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,21.4,T
+30/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,26,T
+31/12/93,1994 Eastern seaboard fires,New South Wales,Blue Mountains,26.3,T
+1/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,27,T
+2/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,30.4,T
+3/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,30.1,T
+4/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,23.5,T
+5/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,27.5,T
+6/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,27.4,T
+7/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,29,T
+8/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,26.4,T
+9/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,23.6,T
+10/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,21,T
+11/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,26.9,T
+12/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,29.4,T
+13/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,31.3,T
+14/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,25.6,T
+15/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,12.9,T
+16/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,24.2,T
+17/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,25.6,F
+18/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,29.6,F
+19/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,26.6,F
+20/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,24.4,F
+21/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,24.9,F
+22/1/94,1994 Eastern seaboard fires,New South Wales,Blue Mountains,17,F
+26/8/94,1994 East Coast Bushfires,Queensland,Brisbane,22.1,F
+27/8/94,1994 East Coast Bushfires,Queensland,Brisbane,23.4,F
+28/8/94,1994 East Coast Bushfires,Queensland,Brisbane,23.1,F
+29/8/94,1994 East Coast Bushfires,Queensland,Brisbane,24.6,F
+30/8/94,1994 East Coast Bushfires,Queensland,Brisbane,24.8,F
+31/8/94,1994 East Coast Bushfires,Queensland,Brisbane,22.4,F
+1/9/94,1994 East Coast Bushfires,Queensland,Brisbane,22.8,T
+2/9/94,1994 East Coast Bushfires,Queensland,Brisbane,24.8,F
+3/9/94,1994 East Coast Bushfires,Queensland,Brisbane,24.4,F
+4/9/94,1994 East Coast Bushfires,Queensland,Brisbane,24.4,F
+5/9/94,1994 East Coast Bushfires,Queensland,Brisbane,25.3,F
+6/9/94,1994 East Coast Bushfires,Queensland,Brisbane,25,F
+7/9/94,1994 East Coast Bushfires,Queensland,Brisbane,24.9,F
+26/8/94,1994 East Coast Bushfires,Queensland,Townsville,26.7,F
+27/8/94,1994 East Coast Bushfires,Queensland,Townsville,27.5,F
+28/8/94,1994 East Coast Bushfires,Queensland,Townsville,26.7,F
+29/8/94,1994 East Coast Bushfires,Queensland,Townsville,26.1,F
+30/8/94,1994 East Coast Bushfires,Queensland,Townsville,26.4,F
+31/8/94,1994 East Coast Bushfires,Queensland,Townsville,26.3,F
+1/9/94,1994 East Coast Bushfires,Queensland,Townsville,26.2,T
+2/9/94,1994 East Coast Bushfires,Queensland,Townsville,26.2,F
+3/9/94,1994 East Coast Bushfires,Queensland,Townsville,26.2,F
+4/9/94,1994 East Coast Bushfires,Queensland,Townsville,26.3,F
+5/9/94,1994 East Coast Bushfires,Queensland,Townsville,25,F
+6/9/94,1994 East Coast Bushfires,Queensland,Townsville,27.3,F
+7/9/94,1994 East Coast Bushfires,Queensland,Townsville,28.1,F
+2/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,39.2,F
+3/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,39,F
+4/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,30.7,F
+5/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,28.6,F
+6/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,30.5,F
+7/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,35.2,F
+8/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,39.6,T
+9/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,33.5,F
+10/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,33.5,F
+11/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,33.5,F
+12/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,33.5,F
+13/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,28.7,F
+14/1/97,1997 Wooroloo bushfire,Western Australia,Wooroloo,30.7,F
+14/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,31.4,F
+15/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,27,F
+16/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,20.8,F
+17/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,22.6,F
+19/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,35.8,F
+20/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,39.1,F
+21/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,37.5,T
+22/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,37.5,F
+23/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,20.9,F
+24/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,22.8,F
+25/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,30.2,F
+26/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,31.9,F
+27/1/97,1997 Dandenongs bushfire,Victoria,Dandenong Ranges,30.9,F
+15/1/97,1997 Dandenongs bushfire,Victoria,Arthur√ïs Seat,26.7,F
+16/1/97,1997 Dandenongs bushfire,Victoria,Arthur√ïs Seat,19.2,F
+17/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,19.1,F
+18/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,22.3,F
+19/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,35.9,F
+20/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,41.5,F
+21/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,39.7,T
+22/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,19.4,F
+23/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,19.7,F
+24/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,19.1,F
+25/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,28.6,F
+26/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,32.3,F
+27/1/97,1997 Dandenongs bushfire,Victoria,Arthur's Seat,27.9,F
+15/1/97,1997 Dandenongs bushfire,Victoria,Creswick,23.4,F
+16/1/97,1997 Dandenongs bushfire,Victoria,Creswick,20,F
+17/1/97,1997 Dandenongs bushfire,Victoria,Creswick,22.6,F
+18/1/97,1997 Dandenongs bushfire,Victoria,Creswick,29.4,F
+19/1/97,1997 Dandenongs bushfire,Victoria,Creswick,34.9,F
+20/1/97,1997 Dandenongs bushfire,Victoria,Creswick,39.2,F
+21/1/97,1997 Dandenongs bushfire,Victoria,Creswick,38.7,T
+22/1/97,1997 Dandenongs bushfire,Victoria,Creswick,21.9,F
+23/1/97,1997 Dandenongs bushfire,Victoria,Creswick,19.5,F
+24/1/97,1997 Dandenongs bushfire,Victoria,Creswick,19.9,F
+25/1/97,1997 Dandenongs bushfire,Victoria,Creswick,29.4,F
+26/1/97,1997 Dandenongs bushfire,Victoria,Creswick,29.9,F
+27/1/97,1997 Dandenongs bushfire,Victoria,Creswick,25.9,F
+26/11/97,1997 Lithgow bushfire,New South Wales,Lithgow,35,F
+27/11/97,1997 Lithgow bushfire,New South Wales,Lithgow,33.4,F
+28/11/97,1997 Lithgow bushfire,New South Wales,Lithgow,31.9,F
+29/11/97,1997 Lithgow bushfire,New South Wales,Lithgow,32.5,F
+30/11/97,1997 Lithgow bushfire,New South Wales,Lithgow,20.7,F
+1/12/97,1997 Lithgow bushfire,New South Wales,Lithgow,26.4,F
+2/12/97,1997 Lithgow bushfire,New South Wales,Lithgow,27.9,T
+3/12/97,1997 Lithgow bushfire,New South Wales,Lithgow,20.5,F
+4/12/97,1997 Lithgow bushfire,New South Wales,Lithgow,26.3,F
+5/12/97,1997 Lithgow bushfire,New South Wales,Lithgow,21,F
+6/12/97,1997 Lithgow bushfire,New South Wales,Lithgow,31.2,F
+7/12/97,1997 Lithgow bushfire,New South Wales,Lithgow,24.5,F
+8/12/97,1997 Lithgow bushfire,New South Wales,Lithgow,24.5,F
+26/11/97,1997 Menai bushfire,New South Wales,Menai,38,F
+27/11/97,1997 Menai bushfire,New South Wales,Menai,40.7,F
+28/11/97,1997 Menai bushfire,New South Wales,Menai,25.5,F
+29/11/97,1997 Menai bushfire,New South Wales,Menai,28.1,F
+30/11/97,1997 Menai bushfire,New South Wales,Menai,26.4,F
+1/12/97,1997 Menai bushfire,New South Wales,Menai,29.6,F
+2/12/97,1997 Menai bushfire,New South Wales,Menai,38.1,T
+3/12/97,1997 Menai bushfire,New South Wales,Menai,23.1,F
+4/12/97,1997 Menai bushfire,New South Wales,Menai,26.7,F
+5/12/97,1997 Menai bushfire,New South Wales,Menai,24.5,F
+6/12/97,1997 Menai bushfire,New South Wales,Menai,28.8,F
+7/12/97,1997 Menai bushfire,New South Wales,Menai,26.4,F
+8/12/97,1997 Menai bushfire,New South Wales,Menai,23.7,F
+26/11/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,24.5,F
+27/11/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,24.8,F
+28/11/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,24,F
+29/11/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,26,F
+30/11/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,27.7,F
+1/12/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,27.6,F
+2/12/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,28.9,T
+3/12/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,25.8,F
+4/12/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,26.3,F
+5/12/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,23.7,F
+6/12/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,26.5,F
+7/12/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,27.5,F
+8/12/97,1997 Perth and South-West Region bushfires,Western Australia,Perth,31,F
+25/12/97,1997 New Year's Eve bushfire,Victoria,Tawonga,29.1,F
+26/12/97,1997 New Year's Eve bushfire,Victoria,Tawonga,27.6,F
+27/12/97,1997 New Year's Eve bushfire,Victoria,Tawonga,24.2,F
+28/12/97,1997 New Year's Eve bushfire,Victoria,Tawonga,27.9,F
+29/12/97,1997 New Year's Eve bushfire,Victoria,Tawonga,30.2,F
+30/12/97,1997 New Year's Eve bushfire,Victoria,Tawonga,32.1,F
+31/12/97,1997 New Year's Eve bushfire,Victoria,Tawonga,31.6,T
+1/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,34,T
+2/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,34.1,T
+3/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,27.4,T
+4/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,28,T
+5/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,26,T
+6/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,27.6,T
+7/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,22.1,T
+8/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,25.5,T
+9/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,28.2,T
+10/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,23.8,F
+11/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,33,F
+12/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,28,F
+13/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,31.4,F
+14/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,25.5,F
+15/1/98,1997 New Year's Eve bushfire,Victoria,Tawonga,27.4,F
+25/12/97,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,27.8,F
+26/12/97,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,22.3,F
+27/12/97,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,18.8,F
+28/12/97,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,23,F
+29/12/97,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,26.9,F
+30/12/97,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,27.6,F
+31/12/97,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,32.5,T
+1/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,36.7,T
+2/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,34.5,T
+3/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,22.8,T
+4/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,23.8,T
+5/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,21.9,T
+6/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,25.1,T
+7/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,25.5,T
+8/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,21.9,T
+9/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,28.2,T
+10/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,26.4,F
+11/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,29.1,F
+12/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,31.1,F
+13/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,33.9,F
+14/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,29.4,F
+15/1/98,1997 New Year's Eve bushfire,Victoria,Carey River State Forest,21.5,F
+27/11/98,1998 Linton bushfire,Victoria,Linton,21.4,F
+28/11/98,1998 Linton bushfire,Victoria,Linton,14.6,F
+29/11/98,1998 Linton bushfire,Victoria,Linton,14.2,F
+30/11/98,1998 Linton bushfire,Victoria,Linton,12.2,F
+1/12/98,1998 Linton bushfire,Victoria,Linton,23.7,F
+2/12/98,1998 Linton bushfire,Victoria,Linton,29.4,F
+2/12/98,1998 Linton bushfire,Victoria,Linton,29.4,T
+3/12/98,1998 Linton bushfire,Victoria,Linton,22.2,F
+4/12/98,1998 Linton bushfire,Victoria,Linton,11,F
+5/12/98,1998 Linton bushfire,Victoria,Linton,15.4,F
+6/12/98,1998 Linton bushfire,Victoria,Linton,22.1,F
+7/12/98,1998 Linton bushfire,Victoria,Linton,17.7,F
+8/12/98,1998 Linton bushfire,Victoria,Linton,23.4,F
+12/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,30.2,F
+13/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,26.6,F
+14/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,29,F
+15/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,32.1,F
+16/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,39.3,F
+17/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,38.5,F
+18/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,33,T
+19/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,36.9,F
+20/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,38.5,F
+21/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,37.3,F
+22/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,26.3,F
+23/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,26.2,F
+24/12/00,2000 Victoria Dadswell Bridge bushfire,Victoria,Dadswell Bridge,21.9,F
+18/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,28.5,F
+19/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,31.8,F
+20/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,37.8,F
+21/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,34.7,F
+22/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,29.7,F
+23/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,32.2,F
+24/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,32.6,T
+25/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,31.8,F
+26/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,26.2,F
+27/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,27.5,F
+28/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,31.1,F
+29/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,34.8,F
+30/12/01,2001 Black Christmas bushfires,New South Wales,Grose Valley,34.7,F
+19/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,25.7,F
+20/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,28.6,F
+21/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,26.2,F
+22/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,24.8,F
+23/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,25.9,F
+24/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,30.6,F
+25/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,31.5,T
+26/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,26.7,F
+27/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,21.6,F
+28/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,24.9,F
+29/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,27.9,F
+30/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,31.1,F
+31/12/01,2001 Black Christmas bushfires,New South Wales,Lane Cove National Park,27.6,F
+19/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,26.9,F
+20/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,31.3,F
+21/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,26.5,F
+22/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,25.7,F
+23/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,28.2,F
+24/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,33.3,F
+25/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,32.6,T
+26/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,28.5,F
+27/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,23.2,F
+28/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,26.6,F
+29/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,30.9,F
+30/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,36.4,F
+31/12/01,2001 Black Christmas bushfires,New South Wales,Royal National Park,30.5,F
+19/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,31.8,F
+20/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,37.8,F
+21/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,34.7,F
+22/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,29.7,F
+23/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,32.2,F
+24/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,32.6,F
+25/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,31.8,T
+26/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,26.2,F
+27/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,27.5,F
+28/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,31.1,F
+29/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,34.8,F
+30/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,34.7,F
+31/12/01,2001 Black Christmas bushfires,New South Wales,Blue Mountains,36.4,F
+11/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,18.6,F
+12/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,17,F
+13/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,22,F
+14/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,25,F
+15/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,23.6,F
+16/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,26.4,F
+17/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,31.3,T
+18/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,29.4,F
+19/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,34.1,F
+20/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,34.9,F
+21/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,27.7,F
+22/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,27.2,F
+23/10/02,2002 Granite Belt Bushfires,Queensland,Ballandean/Glen Aplin,29.1,F
+17/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,35.9,F
+18/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,30.8,F
+19/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,38.7,F
+20/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,37.9,F
+21/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,32.5,F
+22/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,32.8,F
+23/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,34.4,T
+24/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,25.9,F
+25/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,33.4,F
+26/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,37,F
+27/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,16.6,F
+28/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,22.6,F
+29/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Toowoomba,30.2,F
+17/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,37.4,F
+18/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,37.9,F
+19/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,40,F
+20/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,38.6,F
+21/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,32.4,F
+22/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,32.7,F
+23/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,35.5,T
+24/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,26.8,F
+25/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,34,F
+26/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,38.7,F
+27/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,25.1,F
+28/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,25.7,F
+29/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Tara,32.7,F
+17/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,37.1,F
+18/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,29.2,F
+19/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,40.1,F
+20/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,37.5,F
+21/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,34.5,F
+22/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,33,F
+23/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,35.8,T
+24/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,27.4,F
+25/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,34.3,F
+26/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,38.2,F
+27/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,16.6,F
+28/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,22.5,F
+29/10/02,"2002 Toowoomba, Tara and Gatton: Bushfires",Queensland,Gatton,29.8,F
+11/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,19.9,F
+12/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,25.6,F
+13/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,27.1,F
+14/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,35.1,F
+15/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,43.3,F
+16/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,42.8,F
+17/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,41.7,T
+18/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,36,F
+19/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,44.6,F
+20/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,40.1,F
+21/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,43,F
+22/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,31.4,F
+23/12/02,2002 Big Desert Fire,Victoria,Big Desert Wilderness Park,28.5,F
+11/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,22,F
+12/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,25.8,F
+13/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,28,F
+14/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,36.9,F
+15/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,39.8,F
+16/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,43.2,F
+17/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,40.8,T
+18/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,36.7,F
+19/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,40.7,F
+20/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,39.9,F
+21/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,42.6,F
+22/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,31.5,F
+23/12/02,2002 Big Desert Fire,Victoria,Wyperfield National Park,27.9,F
+2/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,23.4,F
+3/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,25.2,F
+4/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,26.8,F
+5/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,28.9,F
+6/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,29.9,F
+7/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,32.6,F
+8/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,21.7,T
+9/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,23.4,F
+10/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,27.2,F
+11/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,28.4,F
+12/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,32.1,F
+13/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,28.9,F
+14/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Mt Buffalo,30.6,F
+2/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,23.4,F
+3/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,25.2,F
+4/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,26.8,F
+5/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,28.9,F
+6/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,29.9,F
+7/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,32.6,F
+8/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,21.7,T
+9/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,23.4,F
+10/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,27.2,F
+11/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,28.4,F
+12/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,32.1,F
+13/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,28.9,F
+14/1/03,2003 Eastern Victorian alpine bushfires,Victoria,Bright,30.6,F
+12/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,25.1,F
+13/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,28.6,F
+14/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,31.6,F
+15/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,32.2,F
+16/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,33.3,F
+17/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,36.6,F
+18/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,38.4,T
+19/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,38.5,F
+20/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,37.5,F
+21/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,37.7,F
+22/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,27.9,F
+23/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,28.5,F
+24/1/03,2003 Canberra bushfires,Australian Capital Territory,Canberra,34.9,F
+4/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,18.7,F
+5/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,20.4,F
+6/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,17.5,F
+7/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,21.5,F
+8/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,28.7,F
+9/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,34.5,F
+10/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,34.5,T
+11/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,34.6,F
+12/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,24.8,F
+13/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,29.4,F
+14/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,20.2,F
+15/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,22.5,F
+16/1/05,2005 Eyre Peninsula bushfire,South Australia,Wangary,21.4,F
+4/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,19,F
+5/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,20.5,F
+6/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,17.1,F
+7/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,21.3,F
+8/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,29.1,F
+9/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,37.2,F
+10/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,38.2,T
+11/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,39,F
+12/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,26.7,F
+13/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,32.9,F
+14/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,20.3,F
+15/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,24,F
+16/1/05,2005 Eyre Peninsula bushfire,South Australia,Wanilla,21.9,F
+4/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,19.4,F
+5/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,19.9,F
+6/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,16.7,F
+7/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,20.2,F
+8/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,26.3,F
+9/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,35.7,F
+10/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,39,T
+11/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,40.5,F
+12/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,26.1,F
+13/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,36.5,F
+14/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,20.1,F
+15/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,24.2,F
+16/1/05,2005 Eyre Peninsula bushfire,South Australia,Port Lincoin,21.2,F
+4/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,19.4,F
+5/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,19.9,F
+6/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,16.7,F
+7/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,20.2,F
+8/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,26.3,F
+9/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,35.7,F
+10/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,39,T
+11/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,40.5,F
+12/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,26.1,F
+13/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,36.5,F
+14/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,20.1,F
+15/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,24.2,F
+16/1/05,2005 Eyre Peninsula bushfire,South Australia,North Shields,21.2,F
+4/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,19.4,F
+5/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,19.9,F
+6/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,16.7,F
+7/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,20.2,F
+8/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,26.3,F
+9/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,35.7,F
+10/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,39,T
+11/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,40.5,F
+12/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,26.1,F
+13/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,36.5,F
+14/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,20.1,F
+15/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,24.2,F
+16/1/05,2005 Eyre Peninsula bushfire,South Australia,Louth Bay,21.2,F
+25/12/05,2005 Victoria bushfire,Victoria,Stawell,16.7,F
+26/12/05,2005 Victoria bushfire,Victoria,Stawell,24.7,F
+27/12/05,2005 Victoria bushfire,Victoria,Stawell,33.3,F
+28/12/05,2005 Victoria bushfire,Victoria,Stawell,26.8,F
+29/12/05,2005 Victoria bushfire,Victoria,Stawell,31,F
+30/12/05,2005 Victoria bushfire,Victoria,Stawell,39.2,F
+31/12/05,2005 Victoria bushfire,Victoria,Stawell,40.6,T
+1/1/06,2005 Victoria bushfire,Victoria,Stawell,22,F
+2/1/06,2005 Victoria bushfire,Victoria,Stawell,24.2,F
+3/1/06,2005 Victoria bushfire,Victoria,Stawell,22.6,F
+4/1/06,2005 Victoria bushfire,Victoria,Stawell,22.5,F
+5/1/06,2005 Victoria bushfire,Victoria,Stawell,26.2,F
+6/1/06,2005 Victoria bushfire,Victoria,Stawell,26,F
+25/12/05,2005 Victoria bushfire,Victoria,Yea,21.4,F
+26/12/05,2005 Victoria bushfire,Victoria,Yea,26.5,F
+27/12/05,2005 Victoria bushfire,Victoria,Yea,31.3,F
+28/12/05,2005 Victoria bushfire,Victoria,Yea,27.8,F
+29/12/05,2005 Victoria bushfire,Victoria,Yea,31.9,F
+30/12/05,2005 Victoria bushfire,Victoria,Yea,38.3,F
+31/12/05,2005 Victoria bushfire,Victoria,Yea,40.8,T
+1/1/06,2005 Victoria bushfire,Victoria,Yea,33.2,F
+2/1/06,2005 Victoria bushfire,Victoria,Yea,22.8,F
+3/1/06,2005 Victoria bushfire,Victoria,Yea,20.1,F
+4/1/06,2005 Victoria bushfire,Victoria,Yea,21.6,F
+5/1/06,2005 Victoria bushfire,Victoria,Yea,26.5,F
+6/1/06,2005 Victoria bushfire,Victoria,Yea,23.6,F
+13/1/06,2006 Grampians Fire,Victoria,The Grampians,24.4,F
+14/1/06,2006 Grampians Fire,Victoria,The Grampians,26.7,F
+15/1/06,2006 Grampians Fire,Victoria,The Grampians,28.1,F
+16/1/06,2006 Grampians Fire,Victoria,The Grampians,31.4,F
+17/1/06,2006 Grampians Fire,Victoria,The Grampians,25.4,F
+18/1/06,2006 Grampians Fire,Victoria,The Grampians,30.2,F
+19/1/06,2006 Grampians Fire,Victoria,The Grampians,33.7,T
+20/1/06,2006 Grampians Fire,Victoria,The Grampians,37.3,F
+21/1/06,2006 Grampians Fire,Victoria,The Grampians,40.5,F
+22/1/06,2006 Grampians Fire,Victoria,The Grampians,40.8,F
+23/1/06,2006 Grampians Fire,Victoria,The Grampians,29.8,F
+24/1/06,2006 Grampians Fire,Victoria,The Grampians,23.3,F
+25/1/06,2006 Grampians Fire,Victoria,The Grampians,33.3,F
+16/1/06,2006 Grampians Fire,Victoria,Dunkeld,29.9,F
+17/1/06,2006 Grampians Fire,Victoria,Dunkeld,23.7,F
+18/1/06,2006 Grampians Fire,Victoria,Dunkeld,28.3,F
+19/1/06,2006 Grampians Fire,Victoria,Dunkeld,33.9,F
+20/1/06,2006 Grampians Fire,Victoria,Dunkeld,37.4,F
+21/1/06,2006 Grampians Fire,Victoria,Dunkeld,40.2,F
+22/1/06,2006 Grampians Fire,Victoria,Dunkeld,41.3,T
+23/1/06,2006 Grampians Fire,Victoria,Dunkeld,27.6,F
+24/1/06,2006 Grampians Fire,Victoria,Dunkeld,21.5,F
+25/1/06,2006 Grampians Fire,Victoria,Dunkeld,34.8,F
+26/1/06,2006 Grampians Fire,Victoria,Dunkeld,38.6,F
+27/1/06,2006 Grampians Fire,Victoria,Dunkeld,33.4,F
+28/1/06,2006 Grampians Fire,Victoria,Dunkeld,36.4,F
+31/1/06,2006 Pulletop bushfire,New South Wales,Pulletop,38,F
+1/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,40,F
+2/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,39.1,F
+3/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,36.9,F
+4/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,33.7,F
+5/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,35.7,F
+6/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,35.4,T
+7/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,31.6,F
+8/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,32.5,F
+9/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,25.1,F
+10/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,26.3,F
+11/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,29.5,F
+12/2/06,2006 Pulletop bushfire,New South Wales,Pulletop,32.2,F
+18/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,25.7,F
+19/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,26.9,F
+20/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,23.1,F
+21/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,23.3,F
+22/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,26,F
+23/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,24.2,F
+24/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,30.3,T
+25/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,15.3,F
+26/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,17.1,F
+27/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,22.6,F
+28/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,17,F
+29/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,25.3,F
+30/9/06,2006 Shoalhaven bushfire,New South Wales,Shoalhaven,16.7,F
+18/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,26,F
+19/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,28,F
+20/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,27.9,F
+21/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,26.6,F
+22/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,29.1,F
+23/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,30.4,F
+24/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,32.7,T
+25/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,18.3,F
+26/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,15.8,F
+27/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,25,F
+28/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,21.1,F
+29/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,28.2,F
+30/9/06,2006 Hawkesbury River bushfire,New South Wales,Hawkesbury River,20.4,F
+6/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,18.8,F
+7/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,20.8,F
+8/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,12.2,F
+9/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,15,F
+10/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,22.1,F
+11/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,26.6,F
+12/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,29.7,T
+13/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,21.8,F
+14/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,17,F
+15/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,13,F
+16/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,17.1,F
+17/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,24.1,F
+18/10/06,2006 Hobart's Eastern Shore bushfire,Tasmania,Hobart,20.2,F
+7/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,22.1,F
+8/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,18.9,F
+9/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,17.9,F
+10/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,24.6,F
+11/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,33.4,F
+12/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,34.8,F
+13/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,30.9,T
+14/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,26.3,F
+15/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,23.3,F
+16/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,16.1,F
+17/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,20.8,F
+18/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,28,F
+19/11/06,2006 Blue Mountains bushfire,New South Wales,Blue Mountains,31.8,F
+4/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,32,F
+5/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,28.8,F
+6/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,29.8,F
+7/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,19.7,F
+8/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,21.5,F
+9/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,27.8,F
+10/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,35.8,T
+11/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,25.7,F
+12/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,21.7,F
+13/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,20.6,F
+14/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,23.4,F
+15/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,28.1,F
+16/1/07,2007 Mt Bold bushfire,South Australia,Mt Bold,34.2,F
+28/1/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,40,F
+29/1/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,37.7,F
+30/1/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,31.4,F
+31/1/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,29.1,F
+1/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,34.5,F
+2/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,46.3,F
+3/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,39.1,T
+4/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,30.1,F
+5/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,30.4,F
+6/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,34.4,F
+7/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,37,F
+8/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,32.3,F
+9/2/07,2007 Dwellingup bushfire,Western Australia,Dwellingup,34.2,F
+30/11/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,17.7,F
+1/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,21.2,F
+2/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,22.2,F
+3/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,16.9,F
+4/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,15.7,F
+5/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,17.7,F
+6/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,27.2,T
+7/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,17.2,F
+8/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,18.3,F
+9/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,17,F
+10/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,15.8,F
+11/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,17.4,F
+12/12/07,2007 Kangaroo Island bushfires,South Australia,Flinders Chase National Park,18.7,F
+24/12/07,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,29.9,F
+25/12/07,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,35.1,F
+26/12/07,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,39.6,F
+27/12/07,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,42.3,F
+28/12/07,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,38.7,F
+29/12/07,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,34.4,F
+30/12/07,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,43.9,T
+31/12/07,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,31.8,F
+1/1/08,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,34.7,F
+2/1/08,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,40.3,F
+3/1/08,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,43.5,F
+4/1/08,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,37.8,F
+5/1/08,2007 Boorabbin National Park,Western Australia,Boorabbin National Park,34,F
+7/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,21,F
+8/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,21.1,F
+9/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,24.2,F
+10/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,22.6,F
+11/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,23,F
+12/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,30.8,F
+13/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,42.6,T
+14/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,22.9,F
+15/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,21.5,F
+16/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,22.4,F
+17/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,26.6,F
+18/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,31.4,F
+19/1/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,33.6,F
+22/1/09,2009 Black Saturday bushfires,Victoria,Delburn,34.3,F
+23/1/09,2009 Black Saturday bushfires,Victoria,Delburn,30.8,F
+24/1/09,2009 Black Saturday bushfires,Victoria,Delburn,17.3,F
+25/1/09,2009 Black Saturday bushfires,Victoria,Delburn,27.7,F
+26/1/09,2009 Black Saturday bushfires,Victoria,Delburn,25.4,F
+27/1/09,2009 Black Saturday bushfires,Victoria,Delburn,34.2,F
+28/1/09,2009 Black Saturday bushfires,Victoria,Delburn,42.2,T
+29/1/09,2009 Black Saturday bushfires,Victoria,Delburn,42.3,F
+30/1/09,2009 Black Saturday bushfires,Victoria,Delburn,43,F
+31/1/09,2009 Black Saturday bushfires,Victoria,Delburn,37.9,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Delburn,22.2,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Delburn,31.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Delburn,19.6,F
+23/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,26.4,F
+24/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,18.3,F
+25/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,25.3,F
+26/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,24.9,F
+27/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,37.2,F
+28/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,43.1,F
+29/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,43.5,T
+30/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,36.7,F
+31/1/09,2009 Black Saturday bushfires,Victoria,Branxholme,28.4,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Branxholme,31.7,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Branxholme,28.1,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Branxholme,26.8,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Branxholme,32.9,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Delburn,22.2,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Delburn,31.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Delburn,19.6,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Delburn,26.9,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Delburn,32.2,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Delburn,31.6,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Delburn,45,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Delburn,21.8,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Delburn,18.9,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Delburn,18.4,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Delburn,19.7,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Delburn,16.8,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Delburn,21.1,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,31,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,31.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,26.6,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,32.7,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,32.9,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,34.4,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,43.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,21.7,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,17.9,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,17.3,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,15.7,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,18.9,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Kinglake,25.6,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,31,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,31.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,26.6,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,32.7,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,32.9,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,34.4,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,43.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,21.7,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,17.9,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,17.3,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,15.7,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,18.9,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Toolangi,25.6,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Healesville,31,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Healesville,31.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Healesville,26.6,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Healesville,32.7,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Healesville,32.9,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Healesville,34.4,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Healesville,43.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Healesville,21.7,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Healesville,17.9,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Healesville,17.3,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Healesville,15.7,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Healesville,18.9,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Healesville,25.6,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,31,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,31.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,26.6,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,32.7,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,32.9,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,34.4,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,43.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,21.7,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,17.9,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,17.3,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,15.7,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,18.9,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Strathewen,25.6,F
+1/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,31,F
+2/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,31.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,26.6,F
+4/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,32.7,F
+5/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,32.9,F
+6/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,34.4,F
+7/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,43.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,21.7,F
+9/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,17.9,F
+10/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,17.3,F
+11/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,15.7,F
+12/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,18.9,F
+13/2/09,2009 Black Saturday bushfires,Victoria,St Andrew,25.6,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Marysville,33,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Marysville,31,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Marysville,27.7,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Marysville,33.9,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Marysville,34.8,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Marysville,35.5,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Marysville,41.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Marysville,25.4,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Marysville,19.7,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Marysville,17.9,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Marysville,16.5,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Marysville,19,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Marysville,25.8,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Buxton,33,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Buxton,31,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Buxton,27.7,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Buxton,33.9,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Buxton,34.8,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Buxton,35.5,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Buxton,41.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Buxton,25.4,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Buxton,19.7,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Buxton,17.9,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Buxton,16.5,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Buxton,19,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Buxton,25.8,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,33.2,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,32.6,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,28.8,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,34.3,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,35.5,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,36.7,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,42.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,24.5,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,19.1,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,17.7,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,16.8,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,20.4,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Kilmore,26.7,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,33.2,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,32.6,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,28.8,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,34.3,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,35.5,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,36.7,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,42.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,24.5,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,19.1,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,17.7,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,16.8,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,20.4,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Flowerdale,26.7,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,36.6,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,39.5,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,33.7,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,39,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,40,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,40.1,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,45,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,31.8,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,23.4,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,19.9,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,20.8,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,24.5,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Bendigo,28.2,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,36.6,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,39.5,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,33.7,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,39,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,40,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,40.1,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,45,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,31.8,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,23.4,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,19.9,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,20.8,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,24.5,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Maiden Gully,28.2,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Horsham,39.5,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Horsham,39.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Horsham,36.3,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Horsham,41.2,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Horsham,38.2,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Horsham,42,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Horsham,46.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Horsham,29.3,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Horsham,23.5,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Horsham,20.9,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Horsham,19,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Horsham,25.6,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Horsham,29.4,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,35.4,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,31.9,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,29.2,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,35.6,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,29.5,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,37.1,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,43.8,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,23.1,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,17.6,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,17.5,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,13,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,18.6,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Coleraine,29.6,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Churchill,20.9,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Churchill,32.4,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Churchill,18.6,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Churchill,25.5,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Churchill,34,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Churchill,29.9,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Churchill,45.1,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Churchill,22.7,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Churchill,19.4,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Churchill,19,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Churchill,21,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Churchill,16.8,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Churchill,20.4,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,33,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,31,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,27.7,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,33.9,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,34.8,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,35.5,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,41.4,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,25.4,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,19.7,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,17.9,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,16.5,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,19,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Murrindindi,25.8,F
+1/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,27.7,F
+2/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,28.3,F
+3/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,24.4,F
+4/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,29,F
+5/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,28.6,F
+6/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,29.8,F
+7/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,39.3,T
+8/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,20.1,F
+9/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,17.6,F
+10/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,17.7,F
+11/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,16.2,F
+12/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,18.8,F
+13/2/09,2009 Black Saturday bushfires,Victoria,Upper Ferntree Gully,24,F
+29/1/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,40,F
+30/1/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,42.1,F
+31/1/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,37.8,F
+1/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,26.3,F
+2/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,30.3,F
+3/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,20.9,F
+4/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,30.2,T
+5/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,32,T
+6/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,33.4,T
+7/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,42.7,F
+8/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,21.8,F
+9/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,18.4,F
+10/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,17.4,F
+11/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,16.9,F
+12/2/09,2009 Bunyip State Park bushfire,Victoria,Bunyip State Park,15.6,F
+13/11/09,2009 South Australia bushfire,South Australia,Curramulka,28.3,F
+14/11/09,2009 South Australia bushfire,South Australia,Curramulka,31.7,F
+15/11/09,2009 South Australia bushfire,South Australia,Curramulka,27.5,F
+16/11/09,2009 South Australia bushfire,South Australia,Curramulka,21.3,F
+17/11/09,2009 South Australia bushfire,South Australia,Curramulka,21.8,F
+18/11/09,2009 South Australia bushfire,South Australia,Curramulka,30.8,F
+19/11/09,2009 South Australia bushfire,South Australia,Curramulka,32.9,T
+20/11/09,2009 South Australia bushfire,South Australia,Curramulka,35.7,F
+21/11/09,2009 South Australia bushfire,South Australia,Curramulka,20.1,F
+22/11/09,2009 South Australia bushfire,South Australia,Curramulka,16.8,F
+23/11/09,2009 South Australia bushfire,South Australia,Curramulka,18,F
+24/11/09,2009 South Australia bushfire,South Australia,Curramulka,25.3,F
+25/11/09,2009 South Australia bushfire,South Australia,Curramulka,28.2,F
+13/11/09,2009 South Australia bushfire,South Australia,Pine Point,28.3,F
+14/11/09,2009 South Australia bushfire,South Australia,Pine Point,31.7,F
+15/11/09,2009 South Australia bushfire,South Australia,Pine Point,27.5,F
+16/11/09,2009 South Australia bushfire,South Australia,Pine Point,21.3,F
+17/11/09,2009 South Australia bushfire,South Australia,Pine Point,21.8,F
+18/11/09,2009 South Australia bushfire,South Australia,Pine Point,30.8,F
+19/11/09,2009 South Australia bushfire,South Australia,Pine Point,32.9,T
+20/11/09,2009 South Australia bushfire,South Australia,Pine Point,35.7,F
+21/11/09,2009 South Australia bushfire,South Australia,Pine Point,20.1,F
+22/11/09,2009 South Australia bushfire,South Australia,Pine Point,16.8,F
+23/11/09,2009 South Australia bushfire,South Australia,Pine Point,18,F
+24/11/09,2009 South Australia bushfire,South Australia,Pine Point,25.3,F
+25/11/09,2009 South Australia bushfire,South Australia,Pine Point,28.2,F
+13/11/09,2009 South Australia bushfire,South Australia,Spring Gully,39.9,F
+14/11/09,2009 South Australia bushfire,South Australia,Spring Gully,41.4,F
+15/11/09,2009 South Australia bushfire,South Australia,Spring Gully,41.3,F
+16/11/09,2009 South Australia bushfire,South Australia,Spring Gully,37.2,F
+17/11/09,2009 South Australia bushfire,South Australia,Spring Gully,37.1,F
+18/11/09,2009 South Australia bushfire,South Australia,Spring Gully,43.8,F
+19/11/09,2009 South Australia bushfire,South Australia,Spring Gully,42.5,T
+20/11/09,2009 South Australia bushfire,South Australia,Spring Gully,31.3,F
+21/11/09,2009 South Australia bushfire,South Australia,Spring Gully,23,F
+22/11/09,2009 South Australia bushfire,South Australia,Spring Gully,19.4,F
+23/11/09,2009 South Australia bushfire,South Australia,Spring Gully,23.3,F
+24/11/09,2009 South Australia bushfire,South Australia,Spring Gully,26.3,F
+25/11/09,2009 South Australia bushfire,South Australia,Spring Gully,31.3,F
+13/11/09,2009 South Australia bushfire,South Australia,Wirrabara,36.9,F
+14/11/09,2009 South Australia bushfire,South Australia,Wirrabara,37.1,F
+15/11/09,2009 South Australia bushfire,South Australia,Wirrabara,38.1,F
+16/11/09,2009 South Australia bushfire,South Australia,Wirrabara,33.1,F
+17/11/09,2009 South Australia bushfire,South Australia,Wirrabara,33.6,F
+18/11/09,2009 South Australia bushfire,South Australia,Wirrabara,40.6,F
+19/11/09,2009 South Australia bushfire,South Australia,Wirrabara,39.5,T
+20/11/09,2009 South Australia bushfire,South Australia,Wirrabara,30.5,F
+21/11/09,2009 South Australia bushfire,South Australia,Wirrabara,22.3,F
+22/11/09,2009 South Australia bushfire,South Australia,Wirrabara,17.3,F
+23/11/09,2009 South Australia bushfire,South Australia,Wirrabara,21.7,F
+24/11/09,2009 South Australia bushfire,South Australia,Wirrabara,23.3,F
+25/11/09,2009 South Australia bushfire,South Australia,Wirrabara,28.3,F
+17/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,20.5,F
+18/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,21.4,F
+19/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,21.6,F
+20/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,27.9,F
+21/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,27.7,F
+22/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,37.3,F
+23/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,38.1,T
+24/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,23.2,F
+25/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,20.3,F
+26/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,22.8,F
+27/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,29.2,F
+28/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,30.8,F
+29/12/09,2009 Port Lincoln bushfire,South Australia,Port Lincoln,31.1,F
+12/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,44.1,F
+13/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,45.8,F
+14/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,34.2,F
+15/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,25.2,F
+16/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,34,F
+17/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,38.5,F
+18/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,39.9,T
+19/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,32.3,F
+20/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,27.7,F
+21/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,33.1,F
+22/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,36.1,F
+23/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,38.4,F
+24/1/13,2013 Warrumbungle bushfire,New South Wales,Warrumbungle,35,F
+7/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,21.1,F
+8/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,21.3,F
+9/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,28.7,F
+10/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,34.1,F
+11/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,28.4,F
+12/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,30.1,F
+13/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,35,T
+14/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,20.2,F
+15/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,24.9,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,28,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,33.6,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,18.4,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Salt Ash,22.9,F
+7/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,21.1,F
+8/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,21.3,F
+9/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,28.7,F
+10/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,34.1,F
+11/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,28.4,F
+12/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,30.1,F
+13/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,35,T
+14/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,20.2,F
+15/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,24.9,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,28,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,33.6,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,18.4,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Heatherbrae,22.9,F
+7/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,21.1,F
+8/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,21.3,F
+9/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,28.7,F
+10/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,34.1,F
+11/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,28.4,F
+12/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,30.1,F
+13/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,35,T
+14/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,20.2,F
+15/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,24.9,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,28,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,33.6,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,18.4,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Raymond Terrace,22.9,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,21.9,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,23.7,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,18.1,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,22.1,F
+20/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,25.1,F
+21/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,28.7,F
+22/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,26.7,T
+23/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,22.2,F
+24/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,14.1,F
+25/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,17.1,F
+26/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,18.3,F
+27/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,22.2,F
+28/10/13,2013 New South Wales bushfires,New South Wales,Lithgow,22,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,21.9,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,23.7,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,18.1,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,22.1,F
+20/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,25.1,F
+21/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,28.7,F
+22/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,26.7,T
+23/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,22.2,F
+24/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,14.1,F
+25/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,17.1,F
+26/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,18.3,F
+27/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,22.2,F
+28/10/13,2013 New South Wales bushfires,New South Wales,Mount Victoria,22,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,27.4,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,30.9,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,19.6,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,24.2,F
+20/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,30.1,F
+21/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,33.3,F
+22/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,31.7,T
+23/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,29.8,T
+24/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,20.9,T
+25/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,23.4,T
+26/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,24.6,F
+27/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,26.5,F
+28/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,28.9,F
+29/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,31.4,F
+30/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,21.4,F
+31/10/13,2013 New South Wales bushfires,New South Wales,Gorricks Creek,26.6,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,27.4,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,30.9,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,19.6,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,24.2,F
+20/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,30.1,F
+21/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,33.3,F
+22/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,31.7,T
+23/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,29.8,T
+24/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,20.9,T
+25/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,23.4,T
+26/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,24.6,F
+27/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,26.5,F
+28/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,28.9,F
+29/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,31.4,F
+30/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,21.4,F
+31/10/13,2013 New South Wales bushfires,New South Wales,Howes Swamp,26.6,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Mellong,27.4,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Mellong,30.9,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Mellong,19.6,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Mellong,24.2,F
+20/10/13,2013 New South Wales bushfires,New South Wales,Mellong,30.1,F
+21/10/13,2013 New South Wales bushfires,New South Wales,Mellong,33.3,F
+22/10/13,2013 New South Wales bushfires,New South Wales,Mellong,31.7,T
+23/10/13,2013 New South Wales bushfires,New South Wales,Mellong,29.8,T
+24/10/13,2013 New South Wales bushfires,New South Wales,Mellong,20.9,T
+25/10/13,2013 New South Wales bushfires,New South Wales,Mellong,23.4,T
+26/10/13,2013 New South Wales bushfires,New South Wales,Mellong,24.6,F
+27/10/13,2013 New South Wales bushfires,New South Wales,Mellong,26.5,F
+28/10/13,2013 New South Wales bushfires,New South Wales,Mellong,28.9,F
+29/10/13,2013 New South Wales bushfires,New South Wales,Mellong,31.4,F
+30/10/13,2013 New South Wales bushfires,New South Wales,Mellong,21.4,F
+31/10/13,2013 New South Wales bushfires,New South Wales,Mellong,26.6,F
+16/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,27.4,F
+17/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,30.9,F
+18/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,19.6,F
+19/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,24.2,F
+20/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,30.1,F
+21/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,33.3,F
+22/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,31.7,T
+23/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,29.8,T
+24/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,20.9,T
+25/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,23.4,T
+26/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,24.6,F
+27/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,26.5,F
+28/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,28.9,F
+29/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,31.4,F
+30/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,21.4,F
+31/10/13,2013 New South Wales bushfires,New South Wales,Webbs Creek,26.6,F
+27/12/14,2015 Sampson Flat bushfires,South Australia,Sampson Flat,26.1,F
+28/12/14,2015 Sampson Flat bushfires,South Australia,Sampson Flat,28.6,F
+29/12/14,2015 Sampson Flat bushfires,South Australia,Sampson Flat,19.7,F
+30/12/14,2015 Sampson Flat bushfires,South Australia,Sampson Flat,20.9,F
+31/12/14,2015 Sampson Flat bushfires,South Australia,Sampson Flat,28.7,F
+1/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,33.8,F
+2/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,40,T
+3/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,36.3,T
+4/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,26.2,T
+5/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,31.3,T
+6/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,35.9,T
+7/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,36.6,F
+8/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,22.7,F
+9/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,16.1,F
+10/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,13.6,F
+11/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,25.2,F
+12/1/15,2015 Sampson Flat bushfires,South Australia,Sampson Flat,26.1,F
+23/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,21.8,F
+24/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,21.8,F
+25/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,21.8,F
+26/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,25,F
+27/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,28.1,F
+28/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,29.5,F
+29/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,22.8,T
+30/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,23.9,F
+31/1/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,24.7,F
+1/2/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,25.7,F
+2/2/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,25.7,F
+3/2/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,25.7,F
+4/2/15,2015 O'Sullivan bushfire,Western Australia,Northcliffe,25.7,F
+23/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,21.8,F
+24/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,21.8,F
+25/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,21.8,F
+26/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,25,F
+27/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,28.1,F
+28/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,29.5,F
+29/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,22.8,T
+30/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,23.9,F
+31/1/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,24.7,F
+1/2/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,25.7,F
+2/2/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,25.7,F
+3/2/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,25.7,F
+4/2/15,2015 O'Sullivan bushfire,Western Australia,Windy Harbour,25.7,F
+3/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,8.4,F
+4/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,8.6,F
+5/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,6.7,F
+6/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,9.9,F
+7/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,11.3,F
+8/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,11,F
+9/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,12,T
+10/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,13.2,F
+11/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,11.4,F
+12/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,10,F
+13/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,9.6,F
+14/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,13.4,F
+15/8/15,2015 Wentworthfalls Winter Fire,New South Wales,Wentworth Falls,12.9,F
+26/11/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,17.6,F
+27/11/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,20.5,F
+28/11/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,24.3,F
+29/11/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,28.1,F
+30/11/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,34.8,F
+1/12/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,19.6,F
+2/12/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,20.2,T
+3/12/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,27.9,F
+4/12/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,33.9,F
+5/12/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,37.7,F
+6/12/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,40.3,F
+7/12/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,36.5,F
+8/12/15,2015 Pinery bushfire,South Australia,Clare and Gilbert Valley,26.7,F
+7/2/17,2017 Tingha bushfire,New South Wales,Tingha,37,F
+8/2/17,2017 Tingha bushfire,New South Wales,Tingha,31.8,F
+9/2/17,2017 Tingha bushfire,New South Wales,Tingha,33.7,F
+10/2/17,2017 Tingha bushfire,New South Wales,Tingha,36.6,F
+11/2/17,2017 Tingha bushfire,New South Wales,Tingha,40.2,F
+12/2/17,2017 Tingha bushfire,New South Wales,Tingha,41.5,F
+13/2/17,2017 Tingha bushfire,New South Wales,Tingha,33.5,T
+14/2/17,2017 Tingha bushfire,New South Wales,Tingha,31,F
+15/2/17,2017 Tingha bushfire,New South Wales,Tingha,30.8,F
+16/2/17,2017 Tingha bushfire,New South Wales,Tingha,32.8,F
+17/2/17,2017 Tingha bushfire,New South Wales,Tingha,34.1,F
+18/2/17,2017 Tingha bushfire,New South Wales,Tingha,34.6,F
+19/2/17,2017 Tingha bushfire,New South Wales,Tingha,25.5,F
+31/8/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,19.3,F
+1/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,22.2,F
+2/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,24.6,F
+3/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,25.2,F
+4/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,28.7,F
+5/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,29.8,F
+6/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,30.2,T
+7/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,21.9,F
+8/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,20,F
+9/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,16.7,F
+10/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,18.4,F
+11/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,19.2,F
+12/9/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Drake,24,F
+20/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,25,F
+21/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,26.1,F
+22/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,26.9,F
+23/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,29.5,F
+24/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,32.3,F
+25/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,33.9,F
+26/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,37.1,T
+27/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,27.2,F
+28/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,27.1,F
+29/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,27.4,F
+30/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,27.4,F
+31/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,29.1,F
+1/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Gospers Mountain,27.9,F
+20/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,22.2,F
+21/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,23.3,F
+22/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,23.3,F
+23/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,24.9,F
+24/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,28.4,F
+25/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,29.9,F
+26/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,32,T
+27/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,24.8,F
+28/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,24.6,F
+29/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,24.5,F
+30/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,26.6,F
+31/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,26.5,F
+1/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Port Macquarie,26.6,F
+22/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,29.4,F
+23/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,31.8,F
+24/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,33.9,F
+25/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,35.9,F
+26/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,31.3,F
+27/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,26.5,F
+28/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,24.5,T
+29/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,29.5,F
+30/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,31.9,F
+31/10/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,32.4,F
+1/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,31.9,F
+2/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,33.8,F
+3/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Cattai,32.5,F
+6/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,27.9,F
+7/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,31.1,F
+8/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,30.5,F
+9/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,21,F
+10/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,25.6,F
+11/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,26.6,F
+12/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,36.2,T
+13/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,24.1,F
+14/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,25.5,F
+15/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,31.5,F
+16/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,24.4,F
+17/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,23.1,F
+18/11/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Lane Cove National Park,25.8,F
+14/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,21.2,F
+15/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,18.9,F
+16/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,18.2,F
+17/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,19.7,F
+18/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,33.1,F
+19/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,22.8,F
+20/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,43.9,T
+21/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,22.9,F
+22/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,21.3,F
+23/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,23,F
+24/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,21.9,F
+25/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,25,F
+26/11/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Yorke Peninsula,19.6,F
+9/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,29.2,F
+10/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,34.4,F
+11/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,27.2,F
+12/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,23.7,F
+13/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,22,F
+14/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,28.2,F
+15/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,26.9,T
+16/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,25.1,F
+17/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,26.2,F
+18/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,30.3,F
+19/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,34.3,F
+20/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,27,F
+21/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Mount Wilson,37.5,F
+24/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,22.4,F
+25/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,26.5,F
+26/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,25.5,F
+27/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,30.4,F
+28/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,32.4,F
+29/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,35.5,F
+30/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,35.5,T
+31/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,14.3,F
+1/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,19.1,F
+2/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,20.3,F
+3/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,20.3,F
+4/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,35.4,F
+5/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,12.6,F
+25/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,29.7,F
+26/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,32.7,F
+27/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,35,F
+28/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,37.2,F
+29/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,35.9,F
+30/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,38.9,F
+31/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,38.4,T
+1/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,27.4,F
+2/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,27.7,F
+3/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,37.6,F
+4/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,42.6,F
+5/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,15.6,F
+6/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Charleys Forest,20.9,F
+27/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,30.4,F
+28/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,32.4,F
+29/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,35.5,F
+30/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,35.5,F
+31/12/19,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,14.3,F
+1/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,19.1,F
+2/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,20.3,T
+3/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,20.3,F
+4/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,35.4,F
+5/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,12.6,F
+6/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,16.6,F
+7/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,22.3,F
+8/1/20,2019-2020 Australian Nationalwide Bushfire,Victoria,East Gippsland,19.6,F
+28/12/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,30.6,F
+29/12/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,34.9,F
+30/12/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,37.1,F
+31/12/19,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,24.5,F
+1/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,26.5,F
+2/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,28.1,F
+3/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,38.8,T
+4/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,18.1,F
+5/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,20.6,F
+6/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,22.9,F
+7/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,29.6,F
+8/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,34.2,F
+9/1/20,2019-2020 Australian Nationalwide Bushfire,South Australia,Kangaroo Island,39.6,F
+29/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,36,F
+30/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,41.4,F
+31/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,46.3,F
+1/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,33.5,F
+2/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,31.4,F
+3/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,37.7,F
+4/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,48.9,T
+5/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,30.2,F
+6/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,24,F
+7/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,35.3,F
+8/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,28.8,F
+9/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,26.8,F
+10/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Penrith,40.5,F
+30/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,28.9,F
+31/12/19,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,21.4,F
+1/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,20.4,F
+2/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,21.2,F
+3/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,23.4,F
+4/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,29.9,F
+5/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,18.7,T
+6/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,19.6,F
+7/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,23.2,F
+8/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,25,F
+9/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,23.8,F
+10/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,28.2,F
+11/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Bega Valley Shire,25.4,F
+14/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,19.3,F
+15/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,18.3,F
+16/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,18.8,F
+17/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,11.9,F
+18/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,14.6,F
+19/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,16.8,F
+20/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,14.2,T
+21/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,11.1,F
+22/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,17.8,F
+23/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,17.1,F
+24/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,14.7,F
+25/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,19.2,F
+26/1/20,2019-2020 Australian Nationalwide Bushfire,New South Wales,Snowy Mountains,19.6,F

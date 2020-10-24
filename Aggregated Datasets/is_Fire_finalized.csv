@@ -1,0 +1,273 @@
+"Date","Nickname","State","Location","Max.Temperature..C.","isFire"
+"14/1/44","1944 Victorian bushfires","Victoria","Beaumaris",39.5,TRUE
+"15/2/51","1951 Charleville Region, Qld: Bushfires","Queensland","Charleville Region",36.2,TRUE
+"1/12/51","1951 Molongolo Valley, Mt, Stromlo, Red Hill, Woden Valley, Tuggeranong, Mugga bushfire","Australian Capital Territory","Canberra",23.4,TRUE
+"2/1/55","1955 Black Sunday bushfires","South Australia","Adelaide Hills",42.8,TRUE
+"30/11/57","1957 Grose Valley bushfire, Blue Mountains","New South Wales","Blue Mountains",30.6,TRUE
+"2/12/57","1957 Leura bushfire, Blue Mountains","New South Wales","Leura",34.4,TRUE
+"15/2/61","1961 Western Australian bushfires","Western Australia","Pemberton",36.1,TRUE
+"16/1/62","1962 Victorian bushfires","Victoria","The Basin",40,TRUE
+"16/1/62","1962 Victorian bushfires","Victoria","Christmas Hills",40,TRUE
+"16/1/62","1962 Victorian bushfires","Victoria","Kinglake",40,TRUE
+"16/1/62","1962 Victorian bushfires","Victoria","St Andrews",40,TRUE
+"16/1/62","1962 Victorian bushfires","Victoria","Hurstbridge",40,TRUE
+"16/1/62","1962 Victorian bushfires","Victoria","Warrandyte",40,TRUE
+"16/1/62","1962 Victorian bushfires","Victoria","Mitcham",40,TRUE
+"17/1/65","1965 Longwood bushfire","Victoria","Longwood",40.6,TRUE
+"13/3/65","1965 Gippsland bushfires","Victoria","Bruthen",35.6,TRUE
+"13/3/65","1965 Gippsland bushfires","Victoria","Tambo Crossing",35.6,TRUE
+"14/3/65","1965 Southern Highlands bushfires","New South Wales","Chatsbury",17.2,TRUE
+"14/3/65","1965 Southern Highlands bushfires","New South Wales","Bungonia",19.4,TRUE
+"7/2/67","1967 Black Tuesday bushfires","Tasmania","Hobart",39.3,TRUE
+"19/2/68","1968 Dandenong Ranges, The Basin, Upwey bushfire","Victoria","The Basin",32.4,TRUE
+"19/2/68","1968 Dandenong Ranges, The Basin, Upwey bushfire","Victoria","Upwey",35.4,TRUE
+"29/11/68","1968 Blue Mountains Bushfire","New South Wales","Blue Mountains",29.6,TRUE
+"8/1/69","1969 bushfires","Victoria","Lara",38.9,TRUE
+"8/1/69","1969 bushfires","Victoria","Daylesford",35.6,TRUE
+"8/1/69","1969 bushfires","Victoria","Yea",37.1,TRUE
+"8/1/69","1969 bushfires","Victoria","Kangaroo Flat",37.8,TRUE
+"8/1/69","1969 bushfires","Victoria","Korong Vale",39.2,TRUE
+"14/12/72","1972 VIC bushfire","Victoria","Mount Buffalo",27.6,TRUE
+"1/11/74","1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire","Queensland","Thargomindah",26.2,TRUE
+"1/11/74","1974 Thargomindah, Bulloo Shire, Boulia Urandangie, McKinlay Shire","Queensland","Boulia Urandangie",29,TRUE
+"25/5/76","1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood","Queensland","Julia Creek",28.5,TRUE
+"25/5/76","1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood","Queensland","Hughenden",28.3,TRUE
+"25/5/76","1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood","Queensland","South Burnett",19.8,TRUE
+"25/5/76","1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood","Queensland","Nanango",21,TRUE
+"25/5/76","1976 Julia Creek, Coalbrook Station, Hughenden, South Burnett, Nanango, Brisbane Valley, Inglewood","Queensland","Inglewood",18,TRUE
+"12/2/77","1977 Western Districts bushfires","Victoria","Streatham",37,TRUE
+"17/12/77","1977 Blue Mountains Fires 1977","New South Wales","Blue Mountains",28.7,TRUE
+"1/1/78","1978 Western Australia bushfire","Western Australia","Wanneroo",26.4,TRUE
+"1/1/78","1978 Western Australia bushfire","Western Australia","Pemberton",24.5,TRUE
+"15/1/78","1978 Bairnsdale bushfire","Victoria","Bairnsdale",41.9,TRUE
+"4/4/78","1978 Western Australian bushfires","Western Australia","Manjimup",30.2,TRUE
+"4/4/78","1978 Western Australian bushfires","Western Australia","Blackwood Valley",34,TRUE
+"3/11/80","1980 Waterfall bushfire","New South Wales","Waterfall",18.5,TRUE
+"28/12/80","1980 Victoria bushfire","Victoria","Sunset Country",35.9,TRUE
+"29/12/80","1980 Victoria bushfire","Victoria","Sunset Country",31.8,TRUE
+"30/12/80","1980 Victoria bushfire","Victoria","Sunset Country",35.1,TRUE
+"31/12/80","1980 Victoria bushfire","Victoria","Sunset Country",42.9,TRUE
+"1/1/81","1980 Victoria bushfire","Victoria","Sunset Country",44.4,TRUE
+"2/1/81","1980 Victoria bushfire","Victoria","Sunset Country",42.9,TRUE
+"3/1/81","1980 Victoria bushfire","Victoria","Sunset Country",39.4,TRUE
+"4/1/81","1980 Victoria bushfire","Victoria","Sunset Country",31.9,TRUE
+"5/1/81","1980 Victoria bushfire","Victoria","Sunset Country",36.4,TRUE
+"6/1/81","1980 Victoria bushfire","Victoria","Sunset Country",38.1,TRUE
+"28/12/80","1980 Victoria bushfire","Victoria","Big Desert",31.7,TRUE
+"29/12/80","1980 Victoria bushfire","Victoria","Big Desert",30.4,TRUE
+"30/12/80","1980 Victoria bushfire","Victoria","Big Desert",34.3,TRUE
+"31/12/80","1980 Victoria bushfire","Victoria","Big Desert",40.7,TRUE
+"1/1/81","1980 Victoria bushfire","Victoria","Big Desert",41.4,TRUE
+"2/1/81","1980 Victoria bushfire","Victoria","Big Desert",40.8,TRUE
+"3/1/81","1980 Victoria bushfire","Victoria","Big Desert",33.3,TRUE
+"4/1/81","1980 Victoria bushfire","Victoria","Big Desert",30.9,TRUE
+"5/1/81","1980 Victoria bushfire","Victoria","Big Desert",35.1,TRUE
+"6/1/81","1980 Victoria bushfire","Victoria","Big Desert",35.8,TRUE
+"9/1/83","1983 Grays Point bushfire","New South Wales","Grays Point",41.4,TRUE
+"31/1/83","1983 Cann River bushfire","Victoria","Cann River",32.6,TRUE
+"1/2/83","1983 Victoria bushfire","Victoria","Mt Macedon",39,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","Branxholme",44,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","East Trentham",36.7,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","Mt Macedon",39.9,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","the Otway Ranges",41.5,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","Belgrave Heights",41.3,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","Warburton",37,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","Cockatoo",41.3,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","Beaconsfield Upper",35.6,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","Victoria","Framlingham",41.5,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","South Australia","Adelaide Hills",38.9,TRUE
+"16/2/83","1983 Ash Wednesday bushfires","South Australia","Mt Gambier",43.6,TRUE
+"25/12/84","1984 Western New South Wales grasslands bushfires","New South Wales","Cobar",40.8,TRUE
+"27/12/90","1990 VIC bushfire","Victoria","Strathbogie Ranges",33.6,TRUE
+"28/12/90","1990 VIC bushfire","Victoria","Strathbogie Ranges",26,TRUE
+"29/12/90","1990 VIC bushfire","Victoria","Strathbogie Ranges",28.2,TRUE
+"30/12/90","1990 VIC bushfire","Victoria","Strathbogie Ranges",33.5,TRUE
+"31/12/90","1990 VIC bushfire","Victoria","Strathbogie Ranges",34.5,TRUE
+"1/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",35,TRUE
+"2/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",35.5,TRUE
+"3/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",37,TRUE
+"4/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",35,TRUE
+"5/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",19.3,TRUE
+"6/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",18,TRUE
+"7/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",22.5,TRUE
+"8/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",27,TRUE
+"9/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",29.7,TRUE
+"10/1/91","1990 VIC bushfire","Victoria","Strathbogie Ranges",32.8,TRUE
+"27/12/93","1994 Eastern seaboard fires","New South Wales","Batemans Bay",23,TRUE
+"28/12/93","1994 Eastern seaboard fires","New South Wales","Batemans Bay",25,TRUE
+"29/12/93","1994 Eastern seaboard fires","New South Wales","Batemans Bay",24,TRUE
+"30/12/93","1994 Eastern seaboard fires","New South Wales","Batemans Bay",22.9,TRUE
+"31/12/93","1994 Eastern seaboard fires","New South Wales","Batemans Bay",23.9,TRUE
+"1/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",22.3,TRUE
+"2/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",36.4,TRUE
+"3/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",23,TRUE
+"4/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",23.1,TRUE
+"5/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",34.2,TRUE
+"6/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",31,TRUE
+"7/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",32.4,TRUE
+"8/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",27.6,TRUE
+"9/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",24.5,TRUE
+"10/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",23.9,TRUE
+"11/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",29.2,TRUE
+"12/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",27.3,TRUE
+"13/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",32.7,TRUE
+"14/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",20.4,TRUE
+"15/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",21.3,TRUE
+"16/1/94","1994 Eastern seaboard fires","New South Wales","Batemans Bay",28.4,TRUE
+"27/12/93","1994 Eastern seaboard fires","New South Wales","Blue Mountains",10.7,TRUE
+"28/12/93","1994 Eastern seaboard fires","New South Wales","Blue Mountains",14.2,TRUE
+"29/12/93","1994 Eastern seaboard fires","New South Wales","Blue Mountains",21.4,TRUE
+"30/12/93","1994 Eastern seaboard fires","New South Wales","Blue Mountains",26,TRUE
+"31/12/93","1994 Eastern seaboard fires","New South Wales","Blue Mountains",26.3,TRUE
+"1/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",27,TRUE
+"2/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",30.4,TRUE
+"3/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",30.1,TRUE
+"4/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",23.5,TRUE
+"5/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",27.5,TRUE
+"6/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",27.4,TRUE
+"7/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",29,TRUE
+"8/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",26.4,TRUE
+"9/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",23.6,TRUE
+"10/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",21,TRUE
+"11/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",26.9,TRUE
+"12/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",29.4,TRUE
+"13/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",31.3,TRUE
+"14/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",25.6,TRUE
+"15/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",12.9,TRUE
+"16/1/94","1994 Eastern seaboard fires","New South Wales","Blue Mountains",24.2,TRUE
+"1/9/94","1994 East Coast Bushfires","Queensland","Brisbane",22.8,TRUE
+"1/9/94","1994 East Coast Bushfires","Queensland","Townsville",26.2,TRUE
+"8/1/97","1997 Wooroloo bushfire","Western Australia","Wooroloo",39.6,TRUE
+"21/1/97","1997 Dandenongs bushfire","Victoria","Dandenong Ranges",37.5,TRUE
+"21/1/97","1997 Dandenongs bushfire","Victoria","Arthur's Seat",39.7,TRUE
+"21/1/97","1997 Dandenongs bushfire","Victoria","Creswick",38.7,TRUE
+"2/12/97","1997 Lithgow bushfire","New South Wales","Lithgow",27.9,TRUE
+"2/12/97","1997 Menai bushfire","New South Wales","Menai",38.1,TRUE
+"2/12/97","1997 Perth and South-West Region bushfires","Western Australia","Perth",28.9,TRUE
+"31/12/97","1997 New Year's Eve bushfire","Victoria","Tawonga",31.6,TRUE
+"1/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",34,TRUE
+"2/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",34.1,TRUE
+"3/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",27.4,TRUE
+"4/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",28,TRUE
+"5/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",26,TRUE
+"6/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",27.6,TRUE
+"7/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",22.1,TRUE
+"8/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",25.5,TRUE
+"9/1/98","1997 New Year's Eve bushfire","Victoria","Tawonga",28.2,TRUE
+"31/12/97","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",32.5,TRUE
+"1/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",36.7,TRUE
+"2/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",34.5,TRUE
+"3/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",22.8,TRUE
+"4/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",23.8,TRUE
+"5/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",21.9,TRUE
+"6/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",25.1,TRUE
+"7/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",25.5,TRUE
+"8/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",21.9,TRUE
+"9/1/98","1997 New Year's Eve bushfire","Victoria","Carey River State Forest",28.2,TRUE
+"2/12/98","1998 Linton bushfire","Victoria","Linton",29.4,TRUE
+"18/12/00","2000 Victoria Dadswell Bridge bushfire","Victoria","Dadswell Bridge",33,TRUE
+"24/12/01","2001 Black Christmas bushfires","New South Wales","Grose Valley",32.6,TRUE
+"25/12/01","2001 Black Christmas bushfires","New South Wales","Lane Cove National Park",31.5,TRUE
+"25/12/01","2001 Black Christmas bushfires","New South Wales","Royal National Park",32.6,TRUE
+"25/12/01","2001 Black Christmas bushfires","New South Wales","Blue Mountains",31.8,TRUE
+"17/10/02","2002 Granite Belt Bushfires","Queensland","Ballandean/Glen Aplin",31.3,TRUE
+"23/10/02","2002 Toowoomba, Tara and Gatton: Bushfires","Queensland","Toowoomba",34.4,TRUE
+"23/10/02","2002 Toowoomba, Tara and Gatton: Bushfires","Queensland","Tara",35.5,TRUE
+"23/10/02","2002 Toowoomba, Tara and Gatton: Bushfires","Queensland","Gatton",35.8,TRUE
+"17/12/02","2002 Big Desert Fire","Victoria","Big Desert Wilderness Park",41.7,TRUE
+"17/12/02","2002 Big Desert Fire","Victoria","Wyperfield National Park",40.8,TRUE
+"8/1/03","2003 Eastern Victorian alpine bushfires","Victoria","Mt Buffalo",21.7,TRUE
+"8/1/03","2003 Eastern Victorian alpine bushfires","Victoria","Bright",21.7,TRUE
+"18/1/03","2003 Canberra bushfires","Australian Capital Territory","Canberra",38.4,TRUE
+"10/1/05","2005 Eyre Peninsula bushfire","South Australia","Wangary",34.5,TRUE
+"10/1/05","2005 Eyre Peninsula bushfire","South Australia","Wanilla",38.2,TRUE
+"10/1/05","2005 Eyre Peninsula bushfire","South Australia","Port Lincoin",39,TRUE
+"10/1/05","2005 Eyre Peninsula bushfire","South Australia","North Shields",39,TRUE
+"10/1/05","2005 Eyre Peninsula bushfire","South Australia","Louth Bay",39,TRUE
+"31/12/05","2005 Victoria bushfire","Victoria","Stawell",40.6,TRUE
+"31/12/05","2005 Victoria bushfire","Victoria","Yea",40.8,TRUE
+"19/1/06","2006 Grampians Fire","Victoria","The Grampians",33.7,TRUE
+"22/1/06","2006 Grampians Fire","Victoria","Dunkeld",41.3,TRUE
+"6/2/06","2006 Pulletop bushfire","New South Wales","Pulletop",35.4,TRUE
+"24/9/06","2006 Shoalhaven bushfire","New South Wales","Shoalhaven",30.3,TRUE
+"24/9/06","2006 Hawkesbury River bushfire","New South Wales","Hawkesbury River",32.7,TRUE
+"12/10/06","2006 Hobart's Eastern Shore bushfire","Tasmania","Hobart",29.7,TRUE
+"13/11/06","2006 Blue Mountains bushfire","New South Wales","Blue Mountains",30.9,TRUE
+"10/1/07","2007 Mt Bold bushfire","South Australia","Mt Bold",35.8,TRUE
+"3/2/07","2007 Dwellingup bushfire","Western Australia","Dwellingup",39.1,TRUE
+"6/12/07","2007 Kangaroo Island bushfires","South Australia","Flinders Chase National Park",27.2,TRUE
+"30/12/07","2007 Boorabbin National Park","Western Australia","Boorabbin National Park",43.9,TRUE
+"13/1/09","2009 Port Lincoln bushfire","South Australia","Port Lincoln",42.6,TRUE
+"28/1/09","2009 Black Saturday bushfires","Victoria","Delburn",42.2,TRUE
+"29/1/09","2009 Black Saturday bushfires","Victoria","Branxholme",43.5,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Delburn",45,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Kinglake",43.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Toolangi",43.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Healesville",43.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Strathewen",43.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","St Andrew",43.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Marysville",41.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Buxton",41.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Kilmore",42.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Flowerdale",42.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Bendigo",45,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Maiden Gully",45,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Horsham",46.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Coleraine",43.8,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Churchill",45.1,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Murrindindi",41.4,TRUE
+"7/2/09","2009 Black Saturday bushfires","Victoria","Upper Ferntree Gully",39.3,TRUE
+"4/2/09","2009 Bunyip State Park bushfire","Victoria","Bunyip State Park",30.2,TRUE
+"5/2/09","2009 Bunyip State Park bushfire","Victoria","Bunyip State Park",32,TRUE
+"6/2/09","2009 Bunyip State Park bushfire","Victoria","Bunyip State Park",33.4,TRUE
+"19/11/09","2009 South Australia bushfire","South Australia","Curramulka",32.9,TRUE
+"19/11/09","2009 South Australia bushfire","South Australia","Pine Point",32.9,TRUE
+"19/11/09","2009 South Australia bushfire","South Australia","Spring Gully",42.5,TRUE
+"19/11/09","2009 South Australia bushfire","South Australia","Wirrabara",39.5,TRUE
+"23/12/09","2009 Port Lincoln bushfire","South Australia","Port Lincoln",38.1,TRUE
+"18/1/13","2013 Warrumbungle bushfire","New South Wales","Warrumbungle",39.9,TRUE
+"13/10/13","2013 New South Wales bushfires","New South Wales","Salt Ash",35,TRUE
+"13/10/13","2013 New South Wales bushfires","New South Wales","Heatherbrae",35,TRUE
+"13/10/13","2013 New South Wales bushfires","New South Wales","Raymond Terrace",35,TRUE
+"22/10/13","2013 New South Wales bushfires","New South Wales","Lithgow",26.7,TRUE
+"22/10/13","2013 New South Wales bushfires","New South Wales","Mount Victoria",26.7,TRUE
+"22/10/13","2013 New South Wales bushfires","New South Wales","Gorricks Creek",31.7,TRUE
+"23/10/13","2013 New South Wales bushfires","New South Wales","Gorricks Creek",29.8,TRUE
+"24/10/13","2013 New South Wales bushfires","New South Wales","Gorricks Creek",20.9,TRUE
+"25/10/13","2013 New South Wales bushfires","New South Wales","Gorricks Creek",23.4,TRUE
+"22/10/13","2013 New South Wales bushfires","New South Wales","Howes Swamp",31.7,TRUE
+"23/10/13","2013 New South Wales bushfires","New South Wales","Howes Swamp",29.8,TRUE
+"24/10/13","2013 New South Wales bushfires","New South Wales","Howes Swamp",20.9,TRUE
+"25/10/13","2013 New South Wales bushfires","New South Wales","Howes Swamp",23.4,TRUE
+"22/10/13","2013 New South Wales bushfires","New South Wales","Mellong",31.7,TRUE
+"23/10/13","2013 New South Wales bushfires","New South Wales","Mellong",29.8,TRUE
+"24/10/13","2013 New South Wales bushfires","New South Wales","Mellong",20.9,TRUE
+"25/10/13","2013 New South Wales bushfires","New South Wales","Mellong",23.4,TRUE
+"22/10/13","2013 New South Wales bushfires","New South Wales","Webbs Creek",31.7,TRUE
+"23/10/13","2013 New South Wales bushfires","New South Wales","Webbs Creek",29.8,TRUE
+"24/10/13","2013 New South Wales bushfires","New South Wales","Webbs Creek",20.9,TRUE
+"25/10/13","2013 New South Wales bushfires","New South Wales","Webbs Creek",23.4,TRUE
+"2/1/15","2015 Sampson Flat bushfires","South Australia","Sampson Flat",40,TRUE
+"3/1/15","2015 Sampson Flat bushfires","South Australia","Sampson Flat",36.3,TRUE
+"4/1/15","2015 Sampson Flat bushfires","South Australia","Sampson Flat",26.2,TRUE
+"5/1/15","2015 Sampson Flat bushfires","South Australia","Sampson Flat",31.3,TRUE
+"6/1/15","2015 Sampson Flat bushfires","South Australia","Sampson Flat",35.9,TRUE
+"29/1/15","2015 O'Sullivan bushfire","Western Australia","Northcliffe",22.8,TRUE
+"29/1/15","2015 O'Sullivan bushfire","Western Australia","Windy Harbour",22.8,TRUE
+"9/8/15","2015 Wentworthfalls Winter Fire","New South Wales","Wentworth Falls",12,TRUE
+"2/12/15","2015 Pinery bushfire","South Australia","Clare and Gilbert Valley",20.2,TRUE
+"13/2/17","2017 Tingha bushfire","New South Wales","Tingha",33.5,TRUE
+"6/9/19","2019-2020 Australian Nationalwide Bushfire","New South Wales","Drake",30.2,TRUE
+"26/10/19","2019-2020 Australian Nationalwide Bushfire","New South Wales","Gospers Mountain",37.1,TRUE
+"26/10/19","2019-2020 Australian Nationalwide Bushfire","New South Wales","Port Macquarie",32,TRUE
+"28/10/19","2019-2020 Australian Nationalwide Bushfire","New South Wales","Cattai",24.5,TRUE
+"12/11/19","2019-2020 Australian Nationalwide Bushfire","New South Wales","Lane Cove National Park",36.2,TRUE
+"20/11/19","2019-2020 Australian Nationalwide Bushfire","South Australia","Yorke Peninsula",43.9,TRUE
+"15/12/19","2019-2020 Australian Nationalwide Bushfire","New South Wales","Mount Wilson",26.9,TRUE
+"30/12/19","2019-2020 Australian Nationalwide Bushfire","Victoria","East Gippsland",35.5,TRUE
+"31/12/19","2019-2020 Australian Nationalwide Bushfire","New South Wales","Charleys Forest",38.4,TRUE
+"2/1/20","2019-2020 Australian Nationalwide Bushfire","Victoria","East Gippsland",20.3,TRUE
+"3/1/20","2019-2020 Australian Nationalwide Bushfire","South Australia","Kangaroo Island",38.8,TRUE
+"4/1/20","2019-2020 Australian Nationalwide Bushfire","New South Wales","Penrith",48.9,TRUE
+"5/1/20","2019-2020 Australian Nationalwide Bushfire","New South Wales","Bega Valley Shire",18.7,TRUE
+"20/1/20","2019-2020 Australian Nationalwide Bushfire","New South Wales","Snowy Mountains",14.2,TRUE
